@@ -1,0 +1,47 @@
+#+TITLE:     UVABc-Informatica
+#+AUTHOR:    Alecu Ștefan-Iulian
+#+EMAIL:     uneven-shiver@protonmail.com
+#+DATE:      2022-08-31
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  ro
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:nil pri:nil tags:not-in-toc
+#+EXPORT_EXCLUDE_TAGS: exclude
+#+STARTUP:    showall
+
+* Descriere
+
+Acest repo este un loc centralizat pentru toate resursele pe care le-am avut
+(sau le-am creat pentru mine însumi și pentru colegi) de-a lungul studiilor
+mele universitare de licență la Universitatea „Vasile Alecsandri” din Bacău la
+Facultatea de Științe, specializarea Informatică IF. Aceste materiale se
+aplică și celor de la IFR, unele chiar și pentru cei de la mate. Pentru cei
+din urmă, consultați orarele voastre respective pentru a vedea denumirea
+echivalentă pentru materia respectivă. Aici se află inclusiv orare, structuri
+ale anului universitar, materiale ROSE și ce acte am mai avut, printre altele.
+
+* Structură
+
+Structura este prima oară pe ani, apoi pe materii. Unde este cazul, voi grupa
+și pe cursuri, seminarii și/sau laboratoare, împreună cu alte resurse oferite
+sau pe care le consider eu utile (cheatsheet-uri făcute de mine, materiale de
+la profi, cărți și PDF-uri din experiența mea etc.)
+
+Sub fiecare dosar va fi cîte un README care detaliază conținutul.
+
+Atenție: structura se poate schimba oricînd deoarece acest repo este încă în
+faza incipientă, dar ideea este cam cum am zis mai sus.
+
+* Conținut
+
+Așa cum am detaliat anterior, aici vor fi cursuri, seminarii, laboratoare,
+precum și alte resurse (uneori și materiale interactive, precum notebook-uri
+de Jupyter, chestii de SQL, exerciții rezolvate etc.). Citește cu atenție
+README-urile de la fiecare materie pentru a vedea instrucțiuni speciale, dacă
+este cazul.
+
+* Istoric
+
+** 2022-08-31: versiunea 0.1
+- creare README-uri inițiale
