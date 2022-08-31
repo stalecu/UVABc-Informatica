@@ -5,6 +5,25 @@
 :UNNUMBERED: notoc
 :END:
 * Cuprins
+:PROPERTIES:
+:TOC:      :include all :depth 2 :ignore this
+:END:
+:CONTENTS:
+- [[#semestrul-i][Semestrul I]]
+  - [[#analiză-matematică][Analiză matematică]]
+  - [[#baze-de-date][Baze de date]]
+  - [[#fundamentele-programării][Fundamentele programării]]
+  - [[#interfețe-om-calculator][Interfețe om-calculator]]
+  - [[#medii-și-instrumente-de-programare][Medii și instrumente de programare]]
+- [[#semestrul-ii][Semestrul II]]
+  - [[#algoritmi-fundamentali][Algoritmi fundamentali]]
+  - [[#arhitectura-sistemelor-de-calcul][Arhitectura sistemelor de calcul]]
+  - [[#fundamentele-algebrei][Fundamentele algebrei]]
+  - [[#geometrie-computațională][Geometrie computațională]]
+  - [[#programare-orientată-obiect][Programare orientată-obiect]]
+  - [[#structuri-de-date][Structuri de date]]
+:END:
+
 
 * Semestrul I
 ** Analiză matematică
