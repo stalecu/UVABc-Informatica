@@ -1,11 +1,10 @@
 #+TITLE: Rezumate fișe disciplină anul I (2020-2021)
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:3
 
 :PROPERTIES:
 :UNNUMBERED: notoc
 :END:
 * Cuprins
-#+TOC: headlines 3
 
 * Semestrul I
 ** Analiză matematică
