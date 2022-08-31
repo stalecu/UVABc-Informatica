@@ -1,0 +1,27 @@
+#+TITLE: Anul I (2020-2021)
+
+Legendă:
+- 🧑‍🏫 = curs
+- ✍️ = seminar
+- 🥼 = laborator
+* Materii
+** Semestrul 1
+- **Analiză matematică**: [[https://cadredidactice.ub.ro/marcelinamocanu/][MOCANU Marcelina-Cristina]] (🧑‍🏫) +
+  [[https://cadredidactice.ub.ro/ardeleanuroxana/][ARDELEANU Elena-Roxana]] (✍️)
+- **Baze de date**: [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (🧑‍🏫 + 🥼)
+- **Fundamentele programării**: [[http://cadredidactice.ub.ro/furduiulianmarius][FURDU Iulian-Marius]] (🧑‍🏫 + 🥼)
+- **Interfețe om-calculator**: [[http://cadredidactice.ub.ro/pruteanue/][PRUTEANU Eusebiu]] (🧑‍🏫 + 🥼)
+- **Medii și instrumente de programare**: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫 + 🥼)
+
+** Semestrul II
+- **Algoritmi fundamentali**: [[http://cadredidactice.ub.ro/furduiulianmarius][FURDU Iulian-Marius]] (🧑‍🏫 + 🥼)
+- **Arhitectura sistemelor de calcul**: [[http://cadredidactice.ub.ro/rotardan/][ROTAR Dan]] (🧑‍🏫 + 🥼)
+- **Fundamentele algebrice ale informaticii**: [[http://cadredidactice.ub.ro/valerniminet/][NIMINEȚ Valer]] (🧑‍🏫 + ✍️)
+- **Geometrie computațională**: [[http://cadredidactice.ub.ro/valerniminet/][NIMINEȚ Valer]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/valerniminet/][NIMINEȚ Valer]] sau [[http://cadredidactice.ub.ro/otilialungu/][LUNGU
+  Otilia]] (🥼)
+- **Programare orientată obiect**: [[http://cadredidactice.ub.ro/culeageorge/][CULEA George]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🥼)
+- **Structuri de date**: [[http://cadredidactice.ub.ro/furduiulianmarius][FURDU Iulian-Marius]] (🧑‍🏫 + 🥼)
+
+În cazul nostru am fost 3 subgrupe, iar două subgrupe făceau laboratorul de
+geometrie computațională cu dna. Lungu, iar cealaltă cu dl. Nimineț. Nu era
+diferență de conținut la laboratoare, realistic vorbind.
