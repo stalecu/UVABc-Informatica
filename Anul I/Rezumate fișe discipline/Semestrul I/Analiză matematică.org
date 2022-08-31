@@ -1,0 +1,84 @@
+#+TITLE: Analiză matematică
+
+* Disciplina
+Analiză matematică/Mathematical analysis
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+Niciuna
+
+* Conținutul disciplinei
+** Introducere
+Obiectul de studiu al calculului diferențial și integral. Mulţimea numerelor
+reale - reprezentare zecimală, axioma Cantor-Dedekind. Ecuații și inecuații cu
+modul. Funcții elementare.
+
+** Capitolul I: Şiruri şi serii de numere reale
+
+Mulţimea numerelor reale. Şiruri de numere reale: limita unui şir, şir
+convergent, şir fundamental. Dreapta reală încheiată. Serii numerice -
+condiţii necesare, condiţii suficiente de convergenţă. Operaţii cu
+serii. Criterii de convergenţă pentru serii cu termeni pozitivi. Criteriul
+rădăcinii, criteriul raportului. Serii de puteri.
+
+** Capitolul II: Funcţii de mai multe variabile. Limite şi continuitate
+
+Spaţiul euclidian R^n - produs scalar, normă şi distanţă. Şiruri de vectori
+din R^n. Funcţii vectoriale de o variabilă reală.  Limite şi continuitate
+pentru funcţii de n variabile. Limita după o direcţie, limite iterate.
+
+** Capitolul III: Funcții diferențiabile
+Derivate parţiale (într-un punct şi pe o mulţime). Derivata după o
+direcţie. Operatori diferenţiali în teoria cîmpurilor: gradient, divergenţă,
+rotor. Matrice jacobiană, determinant funcţional. Derivate parţiale de ordin
+superior. Diferenţiala unei funcţii de mai multe variabile. Aplicaţii ale
+diferenţialei în calculul cu aproximări. Diferenţierea şi derivarea funcţiilor
+compuse. Derivate parțiale și diferenţiale de ordin superior.
+
+** Capitolul IV: Formula lui Taylor. Extreme locale ale funcţiilor de mai multe variabile
+
+Formula lui Taylor pentru funcţii de una sau mai multe variabile. Aplicaţii în
+determinarea extremelor locale ale funcţiilor de mai multe variabile. Teorema
+lui Fermat pentru funcţii de mai multe variabile. Studiul punctelor de extrem
+cu ajutorul diferenţialei a doua.
+
+** Capitolul V: Integrarea funcţiilor de o variabilă
+
+Primitive. Integrala Riemann, Integrale improprii de speţa I şi de speţa a
+doua. Studiul convergenţei integralelor improprii.
+
+** Capitolul VI: Integrale curbilinii
+
+Curbe plane şi în spaţiu. Ecuaţii parametrice. Element de arc. Integrala
+curbilinie de speţa I. Definiţie, aplicaţii, Integrala curbilinie de speţa a
+doua. Lucru mecanic, Independenţa de drum a integralelor curbilinii de speţa a
+doua
+
+* Bibliografia minimală obligatorie
+- Miron Nicolescu, Nicolae Dinculeanu şi Solomon Marcus - /Analiză
+  matematică/, vol. 1, Editura
+Didactică şi Pedagogică, Bucureşti, Ediţia IV (1971) sau Ediţia V (1981).
+- M. Mocanu, /Matematici aplicate 1 (Analiză matematică)/, Editura Alma Mater,
+  Bacău, 2007.
+- I. Crăciun - [[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_diferential.pdf][/Analiză matematică. Calcul diferenţial/]], Universitatea Tehnică
+  “Gh. Asachi”, Iaşi, 2011
+- I. Crăciun - [[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_integral.pdf][/Analiză matematică. Calcul integral/]], Editura PIM, Iaşi, 2007
+- S. Chiriţă - [[https://www.academia.edu/19535189/78351889-Probleme-de-Matematici-Superioare-Stan-Chirita][/Probleme de matematici superioare/]], Editura Didactică şi
+  Pedagogică, Bucureşti, 1989
+
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen
+
+* Evaluare pe parcurs
+Temă de casă
