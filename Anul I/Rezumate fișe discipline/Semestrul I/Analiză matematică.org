@@ -1,5 +1,3 @@
-#+TITLE: Analiză matematică
-
 * Disciplina
 Analiză matematică/Mathematical analysis
 
@@ -7,7 +5,7 @@ Analiză matematică/Mathematical analysis
 Obligatoriu
 
 * Precondiții
-Niciuna
+-
 
 * Conținutul disciplinei
 ** Introducere
@@ -58,14 +56,13 @@ doua
 
 * Bibliografia minimală obligatorie
 - Miron Nicolescu, Nicolae Dinculeanu şi Solomon Marcus - /Analiză
-  matematică/, vol. 1, Editura
-Didactică şi Pedagogică, Bucureşti, Ediţia IV (1971) sau Ediţia V (1981).
+  matematică/, vol. 1, Editura Didactică şi Pedagogică, Bucureşti, Ediţia IV (1971) sau Ediţia V (1981).
 - M. Mocanu, /Matematici aplicate 1 (Analiză matematică)/, Editura Alma Mater,
   Bacău, 2007.
-- I. Crăciun - [[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_diferential.pdf][/Analiză matematică. Calcul diferenţial/]], Universitatea Tehnică
+- I. Crăciun - /[[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_diferential.pdf][Analiză matematică. Calcul diferenţial]]/, Universitatea Tehnică
   “Gh. Asachi”, Iaşi, 2011
-- I. Crăciun - [[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_integral.pdf][/Analiză matematică. Calcul integral/]], Editura PIM, Iaşi, 2007
-- S. Chiriţă - [[https://www.academia.edu/19535189/78351889-Probleme-de-Matematici-Superioare-Stan-Chirita][/Probleme de matematici superioare/]], Editura Didactică şi
+- I. Crăciun - /[[http://www.mec.tuiasi.ro/diverse/analiza_matematica_calcul_integral.pdf][Analiză matematică. Calcul integral]]/, Editura PIM, Iaşi, 2007
+- S. Chiriţă - /[[https://www.academia.edu/19535189/78351889-Probleme-de-Matematici-Superioare-Stan-Chirita][Probleme de matematici superioare]]/, Editura Didactică şi
   Pedagogică, Bucureşti, 1989
 
 * Fond de timp alocat pe forme de activitate
