@@ -1,0 +1,138 @@
+* Disciplina
+Medii și instrumente de programare/Software development tools and environments
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Capitolul 1: Introducere
+Care este obiectul de studiu al disciplinei /Medii de programare/ și ce loc
+ocupă aceasta în cadrul disciplinelor informatice. Mediul de programare Gambas:
+Arhitectura mediului de programare, IDE-ul, Schema și componente suplimentare. O
+duzina de întrebări la care căutam răspuns cînd învățăm un limbaj de programare.
+
+** Capitolul 2. Date simple 
+Constante şi variabile. Expresii - ce sînt şi la ce folosesc, cum se formează
+expresiile, sintaxa expresiilor. Tipuri de date simple - cum se reprezintă
+diferite date în calculator. Operații cu tipurile de date simple. Tipuri de date
+speciale: timp și data calendaristică. Era Gambas. Tipuri de date de uz general:
+Tipul =Variant=. Controalele sînt simultan și date, controale din mediul Gambas,
+structura și obiect descrise într-un fișier =class=. Alte tipuri de date tratate
+ca tipuri simple. Tendințe și direcții de dezvoltare a mediilor vizuale și
+limbajelor acestora.
+
+** Capitolul 3. Date structurate I: Vectori și matrice, liste sau colecții
+Tipuri de date structurate - noţiunea de tablou, matrice, notația cu [] la
+vectori. Tipuri de date structurate - noţiunea de listă sau colecție,
+notația cu [] la liste, Liste de elemente, liste de controale, operații
+asupra listelor, construirea dinamică a unei liste, procesarea iterativă sau
+recursivă a listelor, reprezentarea prin desen a listelor.
+
+** Capitolul 4: Date structurate II: Structuri, obiecte, clasă, imagine
+Tipuri de date structurate - noţiunea de structură, record, obiect, clasă. Cum
+devine programul un fisier class, adică o clasă. Crearea dinamică a elementelor
+unui vector de controale (obiecte) în Gambas cu =New=. Diferente Gambas/Visual
+Basic în materie de folosire a matricelor Controale care conțin o imagine.
+PictureBox și folosirea sa. Inițializare cu diverse formate de imagine,
+utilizare. Extensii de fișiere imagine.
+
+** Capitolul 5: Elementele programării structurate
+Cod cu structură nerepetitivă: structura liniară, cu exemple. Cod cu
+structura nerepetitivă: structurile alternative, =If= și respectiv
+=Select=, cu exemple. Structurile repetitive. Condiționare anterioară
+sau posterioară, diferențe între concepte, exemple.  Structurile
+auxiliare: structura =With= pentru acces la cîmpuri/atribute,
+funcții/metode. Structurile auxiliare: structura =For Each= pentru
+parcurgere de liste și colecții. Instrucţiunea de atribuire. Operaţii
+de intrare şi iesire - semantică, utilizare. Variații de sintaxă a
+structurilor de control - cum se descriu elementele programării
+structurate în cazul unor limbaje de programare diferite.  Exemple de
+algoritmi - se vor proiecta algoritmi pentru calcule simple
+matematice, financiar-contabile, dar şi algoritmi mai complecşi de
+căutare, sortare etc.
+** Capitolul 6: Subprograme
+Programarea structurată tradițională, conceptul de
+funcție/procedură/metodă care necesita execuție de cod, rolul
+subprogramelor în acest context. Programarea vizuală bazată pe
+evenimente, conceptul de eveniment care necesita execuție de cod,
+rolul subprogramelor în acest context. Definirea subprogramelor -
+procedurile, (sub)rutinele, funcţiile - şi cum se declară şi se
+definesc ele în cadrul unui program; exemplificări în diferite limbaje
+de programare. Circuitul datelor între subprograme - cum se apelează
+subprogramele, modalităţi de transmitere a parametrilor, apel prin
+valoare, apel prin referința, apel prin nume, =ByRef= și respectiv
+=ByVal=. Atenție: Evenimentul =Change()= și propagarea modificarilor.
+** Capitolul 7: Noțiunile de bază ale programării vizuale
+Consideraţii generale - ce este programarea vizuală şi prin ce se
+deosebeşte de alte paradigme. Forme - ce sînt formele. Controale şi
+proprietăţile lor - ce sînt controalele şi cum se proiectează
+interfaţa unei aplicaţii vizuale. Evenimente - ce sînt evenimentele, ce
+evenimente pot apărea asupra diferitelor controale şi cum pot fi ele
+folosite. Legarea evenimentelor de controale - cum se realizează
+legătura între controale şi diferitele evenimente ce pot avea loc
+asupra lor; scrierea codului subrutinelor şi realizarea programului.
+Proprietăţi/Atribute şi metode - ce sînt acestea şi cum se folosesc.
+Resurse suplimentare folosite de programe
+** Capitolele 8-11: Exemple de programare în mediul vizual
+*** Partea I
+Pornirea mediului de programare vizual. Calcule cu date în consolă.
+Primul tău program. Un salut special pentru tine! =Message.Info=, alte
+mesaje. Un calculator cu operaţii aritmetice în Visual Basic/Un
+calculator cu operatii aritmetice și =SpinBox=-uri în
+Gambas. =ListBox=, liste şi modificarea listelor.
+*** Partea II
+Utilizarea instrucțiunilor =Case= și =If=. Procesarea evenimentului
+=Change()=.  Cadre (Frame-uri) și RadioButoane. Exemplul cu opțiunea
+fumatorului.  Jocul BatalieNumerica – Studiu de caz. (versiuni
+succesive în dezvoltare).  =ProgressBar= – ghidat prin
+program. =ProgressBar= – ghidat de timere.  Controale din setul Qt:
+=Slider=, =Dial=, =LCDNumber=, etc.  =TabStrip=. Interfețe cu tab-uri.
+*** Partea III
+Vector de controale, grup de butoane, eveniment atașat de grup,
+Tooltip, (inclusiv =With=), Entitatea/Obiectul Last – ultimul control
+acționat.  Căutare în =ListBox= cu algoritm explicit sau metoda
+existența Colectii. Colecții de PictureBox-uri. Timere.  CheckBox-uri
+și colectarea opțiunilor bifate într-o colecție indexabilă.  Alocare
+dinamica cu =New= a unor obiecte.  Funcții și subrutine. Transferul
+rezultatelor prin valoare respectiv prin referință.
+*** Partea IV
+Obiecte agregate sau cînd structurile au în interior alte date
+structurate sau alte obiecte. Exemplu cu JackPot-ul. Aflarea
+coordonatelor mouse-ului. Experiment pentru a compara transferul prin
+referinta și transferul prin valoare.  Fișiere: Open, Handle, Print,
+Input. Scrierea în fisiere text, Citirea din fisiere text.  Vectori de
+structuri utilizator sau de obiecte. Ex. cu palatul. Acces la
+elementele vectorului de structuri/obiecte.  Initializari cu subrutina
+=_new()=. Maniera POO de inițializare.  Un joc cu imagini şi
+cronometre. Grafice. Fişiere text - să salvam şi să restauram datele
+
+** Capitolul 12: Conceptele programării orientate pe obiecte
+Introducere - o iniţiere intuitivă în teoria programării orientate pe
+obiecte, cu exemplificări din lumea reală. Definirea claselor - cum se
+definesc clasele, cîmpuri şi metode, cîmpuri private şi publice;
+exemplificări în diferite limbaje de programare obiectuală, Static.
+Derivare - realizarea derivării unei clase din alta clasă, moştenirea
+atributelor și metodelor. Agregarea obiectelor. Implementări: Problema
+clientului de la CEC. Jocul Jackpot
+* Bibliografia minimală obligatorie
+- /Microsoft Visual Basic 6.0 Ghidul programatorului/, Ed.Teora, 1998
+- John W. Rittinghouse, /[[http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf][A Beginner's Guide to Gambas]]/, e-book, 2005
+- B. Pătruţ, /Aplicaţii în VB/, Teora, 2000
+- Daniel Campos, Jose Luis Redrejo, /[[https://openlibra.com/es/book/gambas-programacion-visual-con-software-libre][Gambas – Programacion visual cons
+  Software Libre]]/, e-book, 2009
+- Gambas, site-uri: http://gambas.sourceforge.net/en/main.html, http://gambaswiki.org/wiki
+- Ubuntu Linux > 16.04, Fedora Linux > 25 sau altă distribuție de Linux recentă
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen
