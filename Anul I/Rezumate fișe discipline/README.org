@@ -219,15 +219,66 @@ la http://www.infoifr.ub.ro (se va solicita parola)
 
 *** Procedura de evaluare a cunoștințelor
 Examen
-** TODO Interfețe om-calculator
+** Interfețe om-calculator
 *** Disciplina
+Interfețe om-calculator/Human-computer interfaces
+
 *** Statutul disciplinei
+Obligatoriu
+
 *** Precondiții
+-
+
 *** Conținutul disciplinei
-*** Bibliografia minimă obligatorie
+Domeniul interacţiunii om-calculator/maşină (H.C.I.- Human-Computer
+Interaction).  Factorul uman (utilizatorul) - participant la
+interacțiune și comunicare interactivă. (capacitati, limitari fizice,
+cognitive și aspecte afective).  Modele, stiluri, paradigme de
+interactiune; Procesul de proiectare a interactiunii; Utilizatorul:
+centrul procesului de proiectare; Principii şi paradigme ale
+utilizabilității interfetelor. Metode de evaluare a utilizabilitatii.
+Designul interfeței cu utilizatorul: principii, modele și
+tipuri. Metodologii de analiză şi proiectare a interfeței (centrată pe
+utilizator și pe sarcini). Componente, Obiectele de interfaţă.
+Organizarea datelor. paradigma WIMP. Dispozitive de intrare (controale
+grafice). Dispozitive de ieșire (Componente. Avertismente).  Calitatea
+interfeţei. Tehnici, metrici, metode de observare și evaluare a
+utilizabilităţii interfeţelor om-calculator si a sistemelor
+interactive.  Afectivitate, erori, excepții şi
+riscuri. Preferințele/cerințele utilizatorilor. Educarea și instruirea
+utilizatorilor; Identitate vizuală & Reputaţia/prezentare interfeţei
+(programului). Instrumente şi suportul (pachete program) pentru
+implementarea interfeţelor.  Comunicarea orală om-maşină. Interfete și
+sisteme haptice.(Sinteza vorbirii; Mecanisme de generare a limbajului
+natural; Recunoasterea vorbirii).  Interfeţe inteligente. Agenți de
+interfață. Interacțiunea multimodală. Realitatea augmentată și
+realitatea virtuală.  Tool-uri de proiectare a interfeței (pentru
+prototipuri de interfață).  Asigurarea interacţiunii om-calculator
+prin intermediul instrumentelor Web, Sisteme inteligente de dialog
+(Proiectarea si implementarea sistemelor de dialog; Sistemul de dialog
+DIASYS bazat pe sisteme master-slave cu scheme semantice) Interfete
+bazate pe limbaj natural (Studii de caz- Analiza, modelarea,
+proiectarea, implementarea si evaluarea interfetelor om-calculator.)
+*** Bibliografia minimală obligatorie
+- Pruteanu E., /Interacțiunea om-calculator/mașină/ Ed. Alma Mater, Bacau 2016
+- Cursuri si laboratoare: http://examene.pe.ub.ro/, http://cadredidactice.ub.ro/pruteanue/
+- Trăuşan-Matu, S., /Interfaţarea evoluată om-calculator/, Matrix Rom, Bucureşti, 2015
+- Dix, A.J., J.E. Finlay, G.D. Abowd, /Human-Computer Interaction/, Prentice Hall, 2009
+- Mihaela Colhon, /Human-Computer Interaction/ (Note de curs), Editura SITECH Craiova (2014)
 *** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
 *** Procedura de evaluare a cunoștințelor
+Examen
+
 *** Evaluare pe parcurs
+Temă de casă
 ** Medii și instrumente de programare
 *** Disciplina
 Medii și instrumente de programare/Software development tools and environments
