@@ -1,0 +1,31 @@
+* Disciplina
+Arhitectura sistemelor de calcul/Architecture of computing systems
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+Cunoaşterea principalelor tipuri de arhitecturi utilizate la sistemele
+de calcul.  Dobîndirea de cunoştinţe privind modul de funcţionare şi
+utilizare a elementelor componente din structura unui calculator.
+Dezvoltarea aptitudinilor de programare a structurii hardware.
+
+* Bibliografia minimală obligatorie
+- Rotar Dan, /Arhitectura sistemelor de calcul/, Curs în format electronic, 2013
+- Pârvulescu Lucian, /Arhitectura sistemelor de calcul/, Îndrumar de aplicații. Editura Matrix
+Rom, București, 2015
+- Baruch Z. F., /Arhitectura calculatoarelor/, Editura Todesco, Cluj-Napoca, 2001
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen
+

@@ -1,0 +1,37 @@
+* Disciplina
+Fundamentele algebrice ale informaticii/Algebraic foundations of computer
+science
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+** Unitatea 1. Monoizi
+Grupoizi, teorema asociativității generale, monoizi
+** Unitatea 2. Grupuri
+Grupuri, subgrupuri, congruențe într-un grup, teorema lui Lagrange,
+divizori normali, grupuri factor, morfisme de grupuri, teoreme de
+izomorfism pentru grupuri, grupuri de permutări, acțiunea unui grup
+asupra unei mulțimi.
+** Unitatea 3. Inele și corpuri
+Inele și corpuri, ideale, inele factor, morfisme de inele, teoreme de
+izomorfism pentru inele, inele de polinoame
+* Bibliografia minimală obligatorie
+- M. Becheanu şi colab., /Algebră pentru perfecţionarea profesorilor/, EDP, Bucureşti, 1983
+- Dragomir, A. Dragomir, /Structuri algebrice/, Ed. Facla, Timişoara, 1981
+- C. Năstăsescu, C. Niţă, C. Vraciu, /Bazele algebrei/. Vol. I, Ed. Academiei, Bucureşti, 1986
+- G. Pic, I. Purdea, /Tratat de algebră modernă/. Vol. I, II, Ed. Academiei, Bucureşti, 1977, 1982
+- V. Nimineț, Algebră, /Note de curs/, suport electronic, 2013.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen

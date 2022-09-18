@@ -1,0 +1,40 @@
+* Disciplina
+Algoritmi fundamentali/Fundamental algorithms
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+1. Algoritmi. Complexitatea algoritmilor. Determinări.
+2. Algoritmi de determinare a unor valori numerice
+3. Căutare. Căutarea secvenţială, căutarea binară
+4. Algoritmi de prelucrări numerice pe vectori
+5. Algoritmi de prelucrări pe șiruri de caractere
+6. Algoritmi de prelucrări numerice pe tablouri bidimensionale
+7. Algoritmi de sortare
+8. Algoritmi probabilistici
+9. Algoritmi tip Greedy
+10. Hashing
+11. Sinteze, recapitulare
+* Bibliografia minimală obligatorie
+- Rodica Brânzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
+- Thomas H.Cormen, Charles E.Leiserson, Ronald R.Rivest, /Introducere în Algoritmi/, Agora
+Press, Traducere.
+- Mitchell Wat şi Robert Lafere, /Structuri de date şi algoritmi in Java/, Teora, 1999.
+- Ioan Tomescu, /Date structures/, Editura Universităţii din Bucureşti, 2004.
+- M. Talmaciu, I. Furdu, /Algoritmi şi structuri de date/, note de curs, Ed. Alma Mater, 2008
+   
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen
+

@@ -1,0 +1,48 @@
+* Disciplina
+Programare orientată obiect/Object-oriented programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+Concepte generale. Caracteristicile unui limbaj orientat pe
+obiect. Programare orientată pe obiecte în C++. Clase şi
+obiecte. Clase derivate. Utilizarea variabilelor globale sau a
+funcţiilor globale în definirea funcţiilor membre a unor
+clase. Funcţii inline. Functii de tipul prieten friend. Constructori
+şi destructori. Referinţe. Membrii statici ai unei clase. Utilizarea
+funcţiilor =width()=, =precision()= şi =fill()=. Supraîncărcarea
+funcţiilor şi operatorilor. Funcţie operator.  Supraîncărcarea
+operatorilor =<<= şi =>>=. Definirea de manipulatori
+personalizaţi. Lucrul cu fişierele în C++. Prelucrare binară a
+fişierelor. Lucrul aleatoriu cu fişierele. Cuvântul cheie =this=.
+Prevenirea redeclarării claselor. Tehnici de creare şi iniţializare a
+obiectelor. Elemente despre preprocesare. Directive de compilare
+condiţionată. Prevenirea redeclarării claselor. Programarea în Visual
+C++. Crearea unui proiect. Fereastra interfeţei cu
+utilizatorul. Efectuarea compilării şi a editării de
+legături. Modificarea interfeţei aplicaţiei. Asocierea de cod cu
+interfaţa. Salvarea şi închiderea proiectului. Utilizarea mediului
+Developer Studio. Personalizarea mediului Developer
+Studio. Deschiderea unui proiect existent. spaţiului de lucru ai
+proiectului. Lucrul cu reprezentarea claselor. Resurse Visual
+C++. Tipuri de resurse. Utilizarea controalelor. Lucrul cu imagini în
+Visual C++. Lucrul cu fişiere în Visual C++. Elemente de grafică în
+Visual C++
+* Bibliografia minimală obligatorie
+- Culea George, /Programare orientată pe obiecte/, Note de curs + laborator, 2015
+- Carol Britton, Jill Doake, /A student guide to Object-Oriented Development/, Elsevier, 2010
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen
+

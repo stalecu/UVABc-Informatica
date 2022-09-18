@@ -1,0 +1,56 @@
+* Disciplina
+Geometrie computațională / Computational geometry
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+** Capitolul 1: Curbe în plan
+Definiţii. Reprezentări analitice ale curbelor în plan. Tangentă şi
+normală într-un punct al unei curbe în plan. Lungimea unui arc de
+curbă plană. Parametrizaţii naturale. Reperul Serret-Frenet într-un
+punct al unei curbe plane. Curbură. Teorema fundamentală a geometriei
+curbelor plane. Forma arcului unei curbe plane în vecinătatea unui
+punct. Puncte singulare
+** Capitolul 2: Curbe în spațiul euclidian E³
+Definiţia curbelor în spaţiul euclidian E³. Reprezentări analitice ale
+curbelor în spaţiul euclidian E³. Tangentă şi plan normal într-un punct
+al unei curbe în spaţiu. Lungimea unui arc de curbă în
+spaţiu. Parametrizaţii naturale. Planul osculator într-un punct
+neinflexionar al unei curbe în spaţiu. Formulele lui Frenet pentru o
+curbă în spaţiu. Interpretări geometrice ale funcţiei curbură şi
+funcţiei torsiune. Formulele de calcul pentru curbură şi torsiune.
+** Capitolul 3: Suprafețe
+Definiţia suprafeţei în spaţiul euclidian E³. Reprezentări analitice
+ale suprafeţelor. Curbe pe o suprafaţă. Spaţiul tangent într-un punct
+al unei suprafeţe. Planul tangent într-un punct al suprafeţei. Normala
+la suprafaţă. Forma I-a fundamentală a unei suprafeţe. Aplicaţii ale
+formei I-a fundamentale. Formulele lui Gauss. Formulele lui
+Weingarten. Forma a II-a fundamentală a unei suprafeţe. Curbura
+normală. Direcţii asimptotice. Linii asimptotice. Direcţii principale
+într-un punct al unei suprafeţe. Linii de curbură. Curburi
+principale. Curbură totală. Curbura medie. Curbe pe o
+suprafaţă. Geodezice
+** Capitolul 4: Proiectarea algoritmică a curbelor în plan și spațiu
+Probleme de trasare a curbelor în plan şi în spaţiu. Interpolarea cu
+ajutorul polinoamelor. Curbe Ferguson. Curbe Bézier. Funcţii şi curbe
+spline
+* Bibliografia minimală obligatorie
+1. Nimineț V. /Geometrie computațională/, Ed. Alma Mater, Bacau, 2013.
+2. Nimineț V, Muraru C., /Geometrie computațională cu aplicații in Matlab/, Ed. Pim, Iasi, 2009.
+3. Blănuţă V, Nimineţ V., /Geometrie diferenţială/, Editura Performantica, Iaşi, 2007.
+4.. Oproiu V., /Geometria computaţională a curbelor şi suprafeţelor/, Editura Universităţii “Al. I.
+Cuza” Iaşi, 2003.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

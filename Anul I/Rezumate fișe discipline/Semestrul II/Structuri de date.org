@@ -1,0 +1,38 @@
+* Disciplina
+Structuri de date/Data structures
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+* Conținutul disciplinei
+1. Tablouri (Variabile tablou, tablouri cu parametri, tablouri de
+   obiecte, accesul la tablou, alocarea memoriei)
+2. Stive (Implementări, interfeţe, demonstraţii)
+3. Cozi (Implementări, interfeţe, demonstraţii)
+4. Liste înlănţuite (simplu, dublu, circulare: implementări, operaţii,
+   demonstraţii).
+5. Tabele de dispersie (dictionare, hashing)
+6. Grafuri (conexe, orientate/neorientate)
+7. Arbori (parcurgeri, aplicaţii)
+* Bibliografia minimală obligatorie
+- Rodica Brânzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
+- Thomas H.Cormen, Charles E.Leiserson, Ronald R.Rivest, /Introducere în Algoritmi/, Agora
+Press, Traducere.
+- Mitchell Wat şi Robert Lafere, /Structuri de date şi algoritmi in Java/, Teora, 1999.
+- Ioan Tomescu, /Date structures/, Editura Universităţii din Bucureşti, 2004.
+- M. Talmaciu, I. Furdu, /Algoritmi şi structuri de date/, note de curs, Ed. Alma Mater, 2008
+   
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen
+
