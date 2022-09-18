@@ -272,7 +272,7 @@ proiectarea, implementarea si evaluarea interfetelor om-calculator.)
   - Seminar: -
   - Laborator: 2 x 14 = 28
   - Proiect: -
-- Număr de credite: 6
+- Număr de credite: 5
 
 *** Procedura de evaluare a cunoștințelor
 Examen
