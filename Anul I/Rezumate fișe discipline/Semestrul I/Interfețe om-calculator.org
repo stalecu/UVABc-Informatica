@@ -54,6 +54,3 @@ proiectarea, implementarea si evaluarea interfetelor om-calculator.)
 
 * Procedura de evaluare a cunoștințelor
 Examen
-
-* Evaluare pe parcurs
-Temă de casă

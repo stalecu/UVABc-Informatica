@@ -277,8 +277,6 @@ proiectarea, implementarea si evaluarea interfetelor om-calculator.)
 *** Procedura de evaluare a cunoștințelor
 Examen
 
-*** Evaluare pe parcurs
-Temă de casă
 ** Medii și instrumente de programare
 *** Disciplina
 Medii și instrumente de programare/Software development tools and environments
