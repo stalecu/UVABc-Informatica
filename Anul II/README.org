@@ -1,0 +1,30 @@
+#+TITLE: Anul II (2021-2022)
+
+Legendă:
+- 🧑‍🏫 = curs
+- 📘 = seminar
+- 🥼 = laborator
+  
+* Materii
+** Semestrul 1
+- *Algoritmica grafurilor*: [[https://cadredidactice.ub.ro/elenanechita/][NECHITA Elena]] (🧑‍🏫) + [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (📘)
+- *Dezvoltarea aplicațiilor web*: [[http://cadredidactice.ub.ro/pruteanue/][PRUTEANU Eusebiu]] (🧑‍🏫🥼)
+- *Metode avansate de programare*: [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🧑‍🏫) + BULBUC-AIOANEI Elisa (🥼)
+- *Probabilități și statistică*:  [[http://cadredidactice.ub.ro/carmenmuraru][POPESCU Carmen-Violeta]] (🧑‍🏫) + [[https://cadredidactice.ub.ro/otilialungu/][LUNGU Otilia]] (🥼)
+- *Redactare și comunicare științifică și profesională*: [[https://cadredidactice.ub.ro/elenanechita/][NECHITA Elena]] (🧑‍🏫) 
+- *Tehnici avansate de programare*: [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (🧑‍🏫📘🥼)
+** Semestrul 2
+- *Calcul numeric*: [[http://cadredidactice.ub.ro/carmenmuraru][POPESCU Carmen-Violeta]] (🧑‍🏫🥼) 
+- *Limbaje formale și compilatoare*: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫🥼)
+- *Logică matematică și computațională*: [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (🧑‍🏫📘)
+- *Rețele de calculatoare*: Potorac Alin (🧑‍🏫) + Banu I.V. (🥼)
+- *Sisteme de gestiune a bazelor de date*: [[https://cadredidactice.ub.ro/elenanechita/][NECHITA Elena]] (🧑‍🏫) + [[https://profs.info.uaic.ro/~simona.varlan/][VÎRLAN Simona-Elena]] (🥼)
+
+La rețele de calculatoare a fost o situație atipică, așadar nu aceștia
+ar trebui să fie profii în mod normal (Potorac venind de la Suceava și
+Banu neavînd treabă cu materia).
+
+Cît despre Vîrlan, e ciudat cum de nu are pagină oficială la cadre
+didactice la universitate, dar totuși susține din 2012 laboratorul la
+SGBD la info, deci pot presupune că nu se va schimba în viitorul
+apropiat acest lucru.

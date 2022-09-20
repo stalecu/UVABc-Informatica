@@ -35,8 +35,8 @@ Obligatoriu
 - Semestrul: 1
 - Forme de activitate/număr de ore:
   - Curs: 2 x 14 = 28
-  - Seminar: -
-  - Laborator: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
   - Proiect: -
 - Număr de credite: 5
 
