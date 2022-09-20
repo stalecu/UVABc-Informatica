@@ -1,0 +1,42 @@
+* Disciplina
+Software matematic/Mathematical software
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Notiunea de software matematic. Structura si caracteristicile unui software matematic
+- Software-ul de sistem si software-ul de aplicatii
+- C.A.S- Computer Algebra Systems
+- Software-ul numeric care este utilizat pentru rezolvarea numerică a problemelor matematice precum: probleme de aproximare, sisteme de ecuatii liniare si neliniare algebrice si diferenţiale. Tipuri de prelucrari numerice de date.
+** Constructia de software. Modelare stiintifica. Design software
+- Cerinte in design-ul de software.
+- Noţiunea de model matematic. Algoritmi.
+** Software algebric. Calcule simbolice versus calcule numerice.
+** Software numeric.
+- Matematica numerica si procesarea datelor numerice.
+- Probleme numerice.
+- Selectia de software si incertitudinea calculelor numerice.
+** Software matematic in educatie. Clasificare si exemple de software educationale .
+** Matlab. Generalitati. Functii de control general. Calcule cu vectori si matrice.
+Reprezentarea grafica in Matlab. Fisiere Matlab. Instructiuni si comenzi Matlab.
+* Bibliografia minimală obligatorie
+- Mathworks: /Matlab User’s Guide/
+- Hunt B., Lipsman R., Rosenberg J., /A Guide to Matlab for Beginners and Experienced Users/,
+Cambridge Universiy Press, 2001, ISBN:0521-00859-X
+- Muraru C.V., /Software matematic/, www.stiinte.ub.ro (curs-format electronic)
+- Muraru (Popescu) Carmen-Violeta, /Matlab - Ghid de studiu/, Ed. Edusoft, Bacau, 2006
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 12 = 24
+  - Seminar: -
+  - Laborator: 2 x 12 = 24
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

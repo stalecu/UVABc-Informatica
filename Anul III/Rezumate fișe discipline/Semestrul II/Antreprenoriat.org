@@ -1,0 +1,53 @@
+* Disciplina
+Antreprenoriat/Entrepreneurship
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Antreprenoriatul şi antreprenorul: definiri şi nuanţări
+*** Antreprenorul şi antreprenoriatul: scurtă retrospectivă istorică
+*** Atribute ale antreprenoriatului
+** Perspective asupra antreprenorului
+*** Perspectiva economică
+*** Perspectiva sociologică
+** Diferenţe între antreprenoriat şi managementul întreprinderilor mici şi mijlocii
+*** Aspecte generale
+*** Antreprenor, manager, leader
+** Antreprenoriat comercial
+*** Delimitări conceptuale
+*** Antreprenorul comercial
+*** Stakeholderii în cadrul antreprenoriatului comercial
+** Antreprenoriatul social. Delimitări conceptuale
+*** Particularitățile antreprenoriatului social
+*** Antreprenoriatul social sau economia socială în România
+*** Întreprinderea socială și avantajele oferite de aceasta în cadrul procesului de antreprenoriat social descriere, explicaţii.
+** Elaborarea planului de afaceri
+* Bibliografia minimală obligatorie
+- Borza A., Bordean, O., Mitra, C., Supuran, R., Mureşan, A. (2009),
+  /Antreprenoriat. Managementul firmelor mici şi mijlocii. Concepte şi
+  studii de caz/, Ed. Risoprint, Cluj-Napoca,
+2. Chirleşan D., Neştian A. (coord.), (2009), /Întreprinzătorul, firma
+   şi pieţele în spaţiul naţional, european şi global/, Editura
+   Universităţii A.I.C., Iaşi.
+3. Crişan (Mitra) C., 2012, /Antreprenoriatul social şi
+   responsabilitatea socială corporatistă/, Ed. Risoprint, Cluj-Napoca
+4. Grigore, A.,M., (2012), /Antreprenoriat şi management pentru
+   afaceri mici şi mijlocii/, Editura: CH Beck, Colecţia: Oeconomica
+5. Larry C. Farrell – /Cum să devii antreprenor: dezvoltă-ţi propria
+   afacere!/, Editura Curtea Veche, Bucureşti, 2008
+6. Văduva S. (2004), /Antreprenoriatul/, București: Ed. Economică
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 1 x 12 = 12
+  - Seminar: -
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 1
+
+* Procedura de evaluare a cunoștințelor
+Colocviu

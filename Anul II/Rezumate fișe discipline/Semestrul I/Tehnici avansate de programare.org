@@ -1,0 +1,100 @@
+* Disciplina
+Tehnici avansate de programare/Advanced programming techniques
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Complexitatea algoritmilor
+Algoritm, complexitatea algoritmului, clase de complexitate, notaţii
+** Probleme de sortare şi căutare
+Necesitatea sortării şi a căutării. Metode eficiente pentru sortare şi căutare. Tehnici complexe,
+bazate pe arbori şi dicţionare.
+** Probleme de teoria codurilor
+Metode de codificare, coduri fundamentale, clasificare, utilizarea codurilor
+** Probleme de criptologie
+Criptografia şi criptanaliza. Tipuri de cifruri, algoritmi moderni de criptografie
+** Probleme de optimizare
+Complexitatea problemelor actuale de optimizare, metode exacte, metode aproximative şi
+metode euristice de rezolvare
+** Probleme de teoria jocurilor
+Noţiunea de joc, clasificare, strategii de rezolvare, echilibru, echilibru Nash, exemple de jocuri
+* Bibliografia minimală obligatorie
+- T. H. Cormen, C. E. Leierson, R. L. Rivest, C. Stein, /Introduction to Algorithms/, MIT
+Press, 2009
+- D. Knuth, /Arta programării calculatoarelor/, Teora, 2000
+- D. Hrinciuc Logofătu, /Probleme rezolvate şi algoritmi/, Polirom, 2001
+- V. Iorga, E. Kalisz, C. Țăpuş, /Concursuri de programare. Probleme şi soluţii/, Teora, 1997
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen
+
+* Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Capitolul 1: Introducere
+Paradigme ale programării. Exemplificări.
+** Capitolul 2: Algoritmi
+Etapele rezolvării unei probleme, Definiţia algoritmului,
+Caracteristicile algoritmilor. Reprezentări.
+** Capitolul 3: Date
+ Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
+ date structurate.
+** Capitolul 4: Elementele programării structurate
+ Structurile de bază, auxiliare. Teorema programării structurate,
+ Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
+ Implementarea structurilor de control, Exemple de algoritmi,
+ Complexitatea algoritmilor
+** Capitolul 5: Vectori și înregistrări
+ Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
+ Sortare, interclasare
+** Capitolul 6: Pointeri și referințe
+ Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
+** Capitolul 7: Subprograme
+ Definirea subprogramelor, Circuitul datelor între subprograme
+** Capitolul 8: Recursivitate
+ Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
+Divide- et-impera, Probleme ale căror rezolvări se pot defini în
+termeni recursivi
+** Capitolul 9: Șiruri de caractere
+ Prelucrări. Exemple de aplicaţii.
+** Capitolul 10: Fișiere
+ Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
+** Capitolul 11: Probleme recapitulative
+Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
+* Bibliografia minimală obligatorie
+- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
+- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
+- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
+la http://www.infoifr.ub.ro (se va solicita parola)
+- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
+(se va solicita parola)
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen

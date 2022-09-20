@@ -1,0 +1,42 @@
+* Disciplina
+Securitatea sistemelor informatice/ Information systems security
+
+* Statutul disciplinei
+Opțional
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+- Standarde și protocoale de securitate
+- Semnătura electronică
+- Tehnologii Antivirus, Anti Malware, Firewall, porturi și tehnologii de autorizare
+- Securitatea serverelor de aplicații. Validarea și auditul proceselor de asigurare a securității în
+mediul distribuit
+- Securitatea bazelor de date. Prevenirea și înlăturarea atacurilor asupra sistemelor de baze de date
+- Securitatea aplicațiilor Cloud Computing
+- Securitatea aplicațiilor mobile
+- Scrierea de cod sigur. Securitatea codului sursă dezvoltat de programatori
+- Asigurarea securității lucrului cu memoria internă, securitatea adresării, vulnerabilitatea string-
+urilor
+- Aplicarea tehnologiilor de scriere a codului sigur în aplicații cu baze de date.
+- securitatea aplicațiilor .NET în contextul serverelor de aplicații virtualizate Windows Server
+2012/2016/2019 și Microsoft SQL Server
+* Bibliografia minimală obligatorie
+1. Ion Ivan, Cristian Toma, /Informatics Security Handbook/, 2nd Edition, ASE Publishing
+House, 2009
+2. Ross Anderson, /Security Engineering/, 3rd Edition, Wiley, 2020,
+https://www.cl.cam.ac.uk/~rja14/book.html
+3. IT&C Cybersecurity Master, Bucharest University of Economic Studies, http://ism.ase.ro/
+4. Cristian Toma, /Security in Software Distributed Platforms/, ASE Publishing House, 2008
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen

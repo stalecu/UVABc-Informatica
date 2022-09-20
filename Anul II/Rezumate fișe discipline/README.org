@@ -1,0 +1,730 @@
+#+TITLE: Rezumate fișe disciplină anul II (2021-2022)
+#+OPTIONS: toc:3
+
+:PROPERTIES:
+:UNNUMBERED: notoc
+:END:
+* Cuprins
+:PROPERTIES:
+:TOC:      :include all :depth 2 :ignore this
+:END:
+:CONTENTS:
+- [[#semestrul-i][Semestrul I]]
+  - [[#algoritmica-grafurilor][Algoritmica grafurilor]]
+  - [[#dezvoltarea-aplicațiilor-web][Dezvoltarea aplicațiilor web]]
+  - [[#metode-avansate-de-programare][Metode avansate de programare]]
+  - [[#probabilități-și-statistică][Probabilități și statistică]]
+  - [[#redactare-și-comunicare-științifică-și-profesională][Redactare și comunicare științifică și profesională]]
+  - [[#tehnici-avansate-de-programare][Tehnici avansate de programare]]
+- [[#semestrul-ii][Semestrul II]]
+  - [[#calcul-numeric][Calcul numeric]]
+  - [[#limbaje-formale-și-compilatoare][Limbaje formale și compilatoare]]
+  - [[#logică-matematică-și-computațională][Logică matematică și computațională]]
+  - [[#rețele-de-calculatoare][Rețele de calculatoare]]
+  - [[#sisteme-de-gestiune-a-bazelor-de-date][Sisteme de gestiune a bazelor de date]]
+:END:
+
+* Semestrul I
+** Algoritmica grafurilor
+
+*** Disciplina
+Algoritmica grafurilor/ Graph algorithms
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+1. Noţiuni de bază în teoria grafurilor. Arbori şi arborescenţe.
+2. Algoritmi elementari în grafuri. Reprezentări ale grafurilor,
+   căutarea în lăţime şi lungime, sortarea topologică.
+3. Drumuri minime în grafuri. Algoritmul lui Dijkstra, algoritmul lui
+   Bellman.
+4. Fluxuri în reţele. Reţele de transport, algoritmul lui Ford şi
+   Fulkerson, cuplaje în grafuri bipartite.
+5. Probleme de stabilitate, de colorare, de conexiune.
+*** Bibliografia minimală obligatorie
+- Cornelius Croitoru, /Tehnici de bază în Optimizarea Combinatorie/,
+  Editura Universităţii “Al. I. Cuza” Iasi, 1992.
+- Eleonor Ciurea, /Algoritmi. Introducere in algoritmica grafurilor/,
+  Editura Tehnică, Bucureşti,
+2001.
+- M. C. Golumbic, /Algoritmic Graphs Theory and Perfect Graphs/,
+  Academic Press 1980.
+- Udi Manber, /[[http://libgen.is/book/index.php?md5=A4557FA99B3B59574EA0171E207BBD7E][Introduction to Algorithms. A Creative
+  Approach]]/. Addison Wesley, 1989.
+- Mihai Talmaciu, /Algoritmica grafurilor/, Alma Mater, 2008, ISBN
+  978-973-1833-76-7
+- Mihai Talmaciu, /Probleme de optimizare combinatorialǎ ȋn clase
+  particulare de grafuri și aplicații/, Editura Alma Mater, Bacǎu,
+  2018, ISBN: 978-606-527-592-8.
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 5
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+
+** Dezvoltarea aplicațiilor web
+
+*** Disciplina
+Dezvoltarea aplicațiilor web/Web applications development
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+Internetul și Caracteristicile Web-ului.  Arhitectura unei aplicatii
+web. Modele de formatare a documentelor Web.  Structura unui document
+HTML. Taguri de baza. Crearea paginilor web utlizând limbajul (X)HTML,
+Structura documentelor DHTML, HTML5.  Formatarea paginilor Web prin
+intermediul stilurilor CSS (Cascading Style Sheets), (CSS2 & CSS3).
+Elemente multimedia pentru programarea web.  Servicii, sisteme și
+medii de dezvoltare a aplicatiilor in internet, adresarea resurselor
+in spatiu www și protocolale web (protocolul HTTP și Metodele GET,
+POST).  Servere Web (HTTP), Servere de Aplicatii Web Java: (Java
+Servlets. JSP (Java Server Pages), ASP (Active Server Pages))
+(concepte, caracteristici, exemple). Browsere Web; Programare web la
+nivel de client-side - Concepte si tehnici de baza.  Tehnologii de
+dezvoltare si implementare. JavaScript (js). DOM - Document Object
+Model.  Operatori și expresii. Obiecte (Obiectul "Window" și de
+nivelul trei). Ajax. jQuery. Expresii Regulate (ER) (Regular
+expressions). Programare web la nivel de server (server-side)- Limbaje
+de scripting-PHP: Elemente de baza.  Tehnici de accesare a bazelor de
+date (MySQL) folosind PHP și a limbajului SQL; Conectarea la diferite
+BD. ODBC. Tranzactii web. Cookie-uri & Sesiuni. Elemente de securitate
+si optimizare a aplicatiilor web. Securitatea Clientului Web. SQL
+injection. Roboti, Administrarea continutului și Optimizarea
+site-urilor Web: pentru indexarea de catre motoarele de căutare.
+Strategii SEO-Search Engine Optimization.  Arhitectura orientată spre
+servicii web (web services): (a) SOA- Service Oriented Architecture
+(Descrierea serviciilor Web, (b) Limbajul WSDL- Web Services
+Description Language; (c) Protocolul SOAP- Simple Object Access
+Protocol); Web semantic. Publicare site/bazelor de date pe WEB.
+Întretinerea site-urilor WEB.
+*** Bibliografia minimală obligatorie
+- Pruteanu Eusebiu, /Programare web. Ghid practic./, Editura Alma Mater, 2018
+- Sabin Buraga, /Programarea in web 2.0./, Editura POLIROM, 2017
+- Cursuri și laboratoare: http://examene.pe.ub.ro/ ; http://cadredidactice.ub.ro/pruteanue/
+- Robert W. Sebesta, /Programming the World Wide Web/, 4th Edition, 2008, ISBN: 0-321-48969-1
+- Jonathan Chaffer, Karl Swedberg, /Learning jQuery/, 3rd Edition, Packt Publishing, 2011
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Metode avansate de programare
+
+*** Disciplina
+Metode avansate de programare/ Advanced programming methods
+
+*** Statutul disciplinei
+Opțional
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** Algoritmii si eficiența lor.
+Ce este un algoritm. Probleme si cazuri. Eficienta algoritmilor. Cazul
+mediu si cel mai nefavorabil. Ce este o operaţie elementara. De ce
+avem nevoie de algoritmi eficienţi? Analiza algoritmilor eficienţi
+**** Metoda Greedy.
+O problema prototip. Tipul de probleme la care se aplica metoda
+Greedy. Mecanism general. Probleme ilustrative. Complexitatea
+algoritmilor Greedy
+**** Metoda Backtracking.
+Doua exemple prototip. Tipul de probleme la care se aplica metoda
+Backtracking. Mecanism general. Probleme ilustrative Complexitatea
+algoritmilor Backtracking. Backtracking generalizat (in
+plan). Backtracking recursiv. Variante ale metodei Backtracking
+**** Metoda programării dinamice.
+Exemplu prototip. Tipul de probleme la care se aplica metoda
+programării dinamice. Mecanism general. Probleme
+ilustrative. Compararea metodei programării dinamice cu metoda Greedy.
+Complexitatea metodei programării dinamice
+**** Metoda Divide et impera.
+Exemplu prototip. Tipul de probleme la care se aplica metoda Divide et
+impera. Mecanism general. Probleme ilustrative Complexitatea metodei
+Divide et impera
+**** Metoda Branch and bound.
+Exemplu prototip. Arborele spaţiului de soluţii. Complexitatea
+algoritmilor Branch and bound. Complexitatea metodei Divide et impera
+**** Metode euristice.
+Descrierea generala. Exemple Algoritmi probabilistici. O problema
+prototip. Caracteristicile algoritmilor probabilistici. Clasificarea
+algoritmilor probabilistici. Algoritmii Monte Carlo. Algoritmii Las
+Vegas. Algoritmii Sherwood. Concluzii
+*** Bibliografia minimală obligatorie
+- Octavian Aspru, /Tehnici de programare/, Editura Adias, Rm. Vâlcea, 1997
+- Leon Livovschi, Horia Georgescu, /Sinteza si analiza algoritmilor/, Bucureşti
+- Bogdan Pătruţ, /Algorithm Design Paradigms/, AVM, München, 2011
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 1 x 14 = 14
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+*** Procedura de evaluare a cunoștințelor
+Examen
+
+*** Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** Capitolul 1: Introducere
+Paradigme ale programării. Exemplificări.
+**** Capitolul 2: Algoritmi
+Etapele rezolvării unei probleme, Definiţia algoritmului,
+Caracteristicile algoritmilor. Reprezentări.
+**** Capitolul 3: Date
+ Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
+ date structurate.
+**** Capitolul 4: Elementele programării structurate
+ Structurile de bază, auxiliare. Teorema programării structurate,
+ Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
+ Implementarea structurilor de control, Exemple de algoritmi,
+ Complexitatea algoritmilor
+**** Capitolul 5: Vectori și înregistrări
+ Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
+ Sortare, interclasare
+**** Capitolul 6: Pointeri și referințe
+ Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
+**** Capitolul 7: Subprograme
+ Definirea subprogramelor, Circuitul datelor între subprograme
+**** Capitolul 8: Recursivitate
+ Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
+Divide- et-impera, Probleme ale căror rezolvări se pot defini în
+termeni recursivi
+**** Capitolul 9: Șiruri de caractere
+ Prelucrări. Exemple de aplicaţii.
+**** Capitolul 10: Fișiere
+ Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
+**** Capitolul 11: Probleme recapitulative
+Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
+*** Bibliografia minimală obligatorie
+- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
+- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
+- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
+la http://www.infoifr.ub.ro (se va solicita parola)
+- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
+(se va solicita parola)
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Probabilități și statistică
+
+*** Disciplina
+Probabilități și statistică/Probabilities and statistics
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** Cîmp de probabilitate
+Cîmp de evenimente. Cîmp de probabilitate. Probabilităţi
+condiţionate. Evenimente independente. Scheme probabilistice
+clasice. Aplicaţii la scheme probabilistice.
+**** Variabile aleatoare
+Definiţia variabilei aleatoare. Variabile discrete şi
+continue. Variabile aleatoare independente. Reprezentări grafice ale
+funcţiei de frecvenţă şi densităţii de probabilitate.  Caracteristici
+numerice ale unei variabile aleatoare: valoare medie, momente,
+covarianţă, coeficient de corelaţie.
+**** Funcţii de repartiţie
+Funcţia de repartiţie. Densitate de repartiţie. Caracteristici
+numerice ale funcţiilor de repartiţie. Vectori aleatori. Funcţii de
+repartiţie şi densităţi de repartiţie multidimensionale.  Momente
+obişnuite şi centrate. Proprietăţi. Inegalităţi pentru momente:
+Holder, Schwartz, Minkowski. Corelaţie şi coeficient de
+corelaţie. Funcţii de argumente aleatoare şi funcţiile lor de
+repartiţie. Funcţie caracteristică. Proprietăţi. Funcţia
+generatoare. Teorema de inversiune.
+**** Legi de repartiţie
+Repartiţii de tip discret: uniformă, binomială, Poisson, binomială cu
+exponent negativ, hipergeometrică, multinomială. Repartiţii care admit
+densitate de repartiţie. Repartiţia normală N(m, σ); repartiţia
+uniformă pe intervalul (a,b); repartitia Pareto. Repartiţii gama de
+parametri a,b>0; Repartiţia Student. Repartiţia Snedecor şi repartiţia
+Fischer. Repartiţia beta şi repartiţia Weibull. Repartiţia normală n
+dimensională.
+**** Legea numerelor mari
+Legea slabă a numerelor mari. Legea tare a numerelor mari. Inegalităţi
+şi teoreme: Bernoulli, Cebîşev, Laplace, Leapunov.
+**** Elemente de teoria informaţiei
+Informaţia; cantitatea de informaţie. Entropie; proprietăţi ale
+entropiei. Entropie relativă.  Transmiterea
+informaţiei. Codificare. Cantitatea de informaţie conţinută într-un
+model input-output.
+*** Bibliografia minimală obligatorie
+- M. Iosifescu, G. Mihoc, R. Teodorescu, /Teoria probabilităţilor şi statistică matematică/, Ed.
+Didactică şi Pedagogică, Bucureşti, 1966
+- G. Ciucu, V. Craiu, C. Săcuiu, /Culegere de probleme de teoria probabilităţilor/, Ed. Tehnică,
+1967
+- G. Puiu, E. Nechita, /Calculul probabilităţilor şi elemente de statistică matematică/, Note de
+curs, Universitatea din Bacău, 1996.
+- E. Nechita, /Simularea evenimentelor aleatoare/, Ed. Tehnopress, Iaşi, 2005
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 6
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Redactare și comunicare științifică și profesională
+*** Disciplina
+Redactare și comunicare științifică și profesională/Scientific and professional writing and communication
+
+*** Statutul disciplinei
+Opțional
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+1. Comunicarea, limbajul, principii ale comunicării verbale: claritatea, simplitatea,
+corectitudinea. Matricea comunicării științifice.
+2. Materialul ştiinţific. Etape şi procedura generală de elaborare. Caracteristici ale unei lucrări
+ştiinţifice. Scop şi beneficii. Necesitate şi dificultate.
+3. Documentare. Tipuri de documente (articole, cărţi, monografii, documente electronice, baze
+de date şi aplicaţii). Etape şi faze. Specificul documentării în domeniul Matematică.
+4. Documentare. Baze de date online, free trial, cu acces deschis. Depozite digitale
+instituţionale. Reviste online cu acces deschis. Căutare avansată, utilitare de căutare.
+5. Structura generală a unui material ştiinţific. Premise şi condiţii (originalitate, elemente
+obligatorii în concordanţă cu reglementările naţionale şi/sau intenaţionale şi specifice).
+6. Tehnoredactarea materialului ştiinţific: cerinţe de scriere şi predare a lucrărilor. Declaraţia
+de autenticitate. Diseminarea rezultatelor ştiinţifice
+7. Elemente de etică şi deontologie. Plagiatul
+*** Bibliografia minimală obligatorie
+1. American Psychological Association, Publication Manual of the American Psychological
+Association (5th ed.). Washington, DC, 2001, http://www.apa.org/ethics/code/92-02codecompare.pdf
+2. Andronescu, Şerban C., /Tehnica scrierii academice/, Bucureşti, Editura Fundaţiei „România
+de mâine”, 1977
+3. Eco, Umberto, /Cum se face o teză de licenţă/, Editura Pontica, 2000
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 1 x 14 = 14
+  - Seminar: -
+  - Laborator: 14
+  - Proiect: -
+- Număr de credite: 1
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Tehnici avansate de programare
+
+*** Disciplina
+Tehnici avansate de programare/Advanced programming techniques
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** Complexitatea algoritmilor
+Algoritm, complexitatea algoritmului, clase de complexitate, notaţii
+**** Probleme de sortare şi căutare
+Necesitatea sortării şi a căutării. Metode eficiente pentru sortare şi căutare. Tehnici complexe,
+bazate pe arbori şi dicţionare.
+**** Probleme de teoria codurilor
+Metode de codificare, coduri fundamentale, clasificare, utilizarea codurilor
+**** Probleme de criptologie
+Criptografia şi criptanaliza. Tipuri de cifruri, algoritmi moderni de criptografie
+**** Probleme de optimizare
+Complexitatea problemelor actuale de optimizare, metode exacte, metode aproximative şi
+metode euristice de rezolvare
+**** Probleme de teoria jocurilor
+Noţiunea de joc, clasificare, strategii de rezolvare, echilibru, echilibru Nash, exemple de jocuri
+*** Bibliografia minimală obligatorie
+- T. H. Cormen, C. E. Leierson, R. L. Rivest, C. Stein, /Introduction to Algorithms/, MIT
+Press, 2009
+- D. Knuth, /Arta programării calculatoarelor/, Teora, 2000
+- D. Hrinciuc Logofătu, /Probleme rezolvate şi algoritmi/, Polirom, 2001
+- V. Iorga, E. Kalisz, C. Țăpuş, /Concursuri de programare. Probleme şi soluţii/, Teora, 1997
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 6
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+
+*** Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** Capitolul 1: Introducere
+Paradigme ale programării. Exemplificări.
+**** Capitolul 2: Algoritmi
+Etapele rezolvării unei probleme, Definiţia algoritmului,
+Caracteristicile algoritmilor. Reprezentări.
+**** Capitolul 3: Date
+ Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
+ date structurate.
+**** Capitolul 4: Elementele programării structurate
+ Structurile de bază, auxiliare. Teorema programării structurate,
+ Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
+ Implementarea structurilor de control, Exemple de algoritmi,
+ Complexitatea algoritmilor
+**** Capitolul 5: Vectori și înregistrări
+ Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
+ Sortare, interclasare
+**** Capitolul 6: Pointeri și referințe
+ Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
+**** Capitolul 7: Subprograme
+ Definirea subprogramelor, Circuitul datelor între subprograme
+**** Capitolul 8: Recursivitate
+ Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
+Divide- et-impera, Probleme ale căror rezolvări se pot defini în
+termeni recursivi
+**** Capitolul 9: Șiruri de caractere
+ Prelucrări. Exemple de aplicaţii.
+**** Capitolul 10: Fișiere
+ Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
+**** Capitolul 11: Probleme recapitulative
+Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
+*** Bibliografia minimală obligatorie
+- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
+- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
+- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
+la http://www.infoifr.ub.ro (se va solicita parola)
+- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
+(se va solicita parola)
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+* Semestrul II
+** Calcul numeric
+
+*** Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+1. Rezolvarea numerică a sistemelor liniare de ecuaţii algebrice şi
+   inversarea matricelor. Aspecte teoretice generale. Metoda
+   Gauss. Convergenţa şi ordinul metodei. Metode
+   iterative. Convergenţa. Metodele iterative Jacobi şi
+   Gauss-Seidel. Convergenţa lor.
+2. Rezolvarea numerică a ecuaţiilor (sistemelor de ecuaţii) algebrice
+   neliniare. Metode elementare (metoda înjumătăţirii intervalului,
+   metoda coardei, metoda tangentei). Aspecte teoretice
+   generale. Convergenţa metodei coardei şi a tangentei. Metoda
+   Lobacevski pentru determinarea rădăcinilor unui polinom.
+3. Rezolvarea numerică a problemelor algebrice de valori şi vectori
+   proprii. Aspecte teoretice generale. Algoritmul Jacobi. Convergenţa
+   algoritmului.  Algoritmul Givens pentru calculul valorilor proprii
+   ale unei matrice tridiagonale.  Algoritmi de calcul pentru
+   determinarea valorilor şi vectorilor proprii ale matricelor
+   nehermitiene.
+4. Elemente privind aproximarea şi interpolarea funcţiilor Sistem
+   Cebîşev de funcţii, existenţa şi unicitatea polinomului generalizat
+   de interpolare. Polinomul Lagrange de interpolare, diferenţe
+   divizate, polinomul Newton de interpolare. Convergenţa aproximării
+   prin interpolare, interpolarea prin polinoame trigonometrice,
+   aproximarea funcţiilor prin metoda celor mai mici pătrate.
+5. Elemente de derivare numerică. Derivarea formulei de interpolare a
+   lui Lagrange, diferenţe finite, formule de derivare pe noduri
+   echidistante. Metoda coeficienţilor nedeterminaţi.
+6. Elemente de integrare numerică. Formule de cuadratură de tip
+   Newton-Cotes. Formule de cuadratură iterate, cazuri
+   particulare. Formulele Gauss de integrare aproximativă, integrarea
+   numerică prin metoda Romberg.
+7. Elemente privind rezolvarea ecuaţiilor diferenţiale ordinare Metode
+   numerice directe: dezvoltarea în serie Taylor, metoda Euler şi
+   Runge-Kutta. Convergenţa şi stabilitatea metodelor.
+*** Bibliografia minimală obligatorie
+- Bucur, C.M., /Metode numerice/, Ed. Facla, Timişoara, 1973.
+- Coman, G., /Analiză numerică/, Ed. Libris, Cluj, 1995.
+- Ignat, C., Ilioi, C., Jucan, T., /Elemente de informatică şi calcul numeric/, Univ. „Al. I. Cuza”,
+Iaşi, Fac. de Matematică, 1989.
+- Juan Antonio Infante del Rio, Jose Maria Rey Cabezas, /Metodos Numericas, Teoria, problemas y practicas con MATLAB/, Ed. Piramide, 2002.
+- Press, W.H., Teuklosky, S.A., Vetterling, W.T., Flannery, B.P., /Numerical Recipes in C: The Art of Scientific Computing/, (Cambridge University Press, Cambridge, 1992).
+- Vladislav, T., Raşa, I., /Analiză numerică/, Ed. Tehnică, Bucureşti, 1997.
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+ - Curs: 2 x 14 = 28
+ - Seminar: -
+ - Laborator: 2 x 14 = 28
+ - Proiect: -
+- Număr de credite: 5
+** Limbaje formale și compilatoare
+
+*** Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+1. Introducere în gramatici şi automate. Notaţii algebrice folosite: mulţimi, relaţii, relaţii binare, tipuri de
+relaţii, închiderea unei relaţii, inducţie, scheme de inducţie, inducţie cu mai multe reguli, recursie,
+recursivitatea ca instrument de realizare a interpretoarelor şi compilatoarelor;
+2. Noţiuni de teoria grafurilor, Limbaje formale, văzute ca mulţimi de cuvinte, Reuniuni şi operaţii cu
+limbaje, Gramatici ale limbajelor formale, Derivare, Exemplu: Gramatica unui limbaj de programare.
+Clasificarea gramaticilor, Ierarhia lui Chomsky, Echivalenţa gramaticilor, Limbaje decidabile.
+3. Automate finit(e) deterministe: Complexitatea analizei sintactice, de ce limbajele de tip 3 sunt
+interesante. O gramatică de tip 3. Reprezentarea grafică. Introducere informală în automate. Tranziţii
+deterministe şi tranziţii nedeterministe. Automate finite deterministe şi automate finite nedeterministe,
+Configuraţii şi relaţii de tranziţie, Configuraţie iniţială, configuraţie finală cu stare finală, Limbaje
+acceptate de automate finite. Automate, reprezentări de automate, reprezentare tabelară, reprezentare
+graf, automate echivalente, funcţionarea automatelor, mişcare, blocare, oprire şi staţionare. Stări
+accesibile, stări inaccesibile. Stări accesibile, stări inaccesibile., Algoritmul de determinare a stărilor
+accesibile şi respectiv productive, Echivalenţa AFD – AFN. Transformarea AFN în AFD. Exemplu.
+Definiţia AFD redus. Automate cu epsilon-mişcări. Transformarea unui AF pentru eliminarea lor.
+4. Expresii regulare, Mulţimi regulare, Expresii regulare asociate mulţimilor, Operaţiile cu automate
+asociate. Automate cu epsilon-mişcări care corespund expresiilor regulare. Exemple de limbaje.
+recunoscut de un automat. Metoda I: construcţia inductivă a unui set
+de mulţimi, Metoda a II-a, Construcţia unui sistem de ecuaţii liniare
+şi rezolvarea acestuia.  automate. Gramatici şi limbaje independente
+de context. Proprietăţi de închidere pentru limbajele de tip 2.
+5. Proprietăţi algebrice ale expresiilor regulare. Construcţia expresiei regulare corespunzatoare limbajului
+6. Echivalenţa dintre limbaje regulare specificate prin gramatici şi limbaje regulare recunoscute de
+7. Arbori de derivare, Analiza sintactică, Frontiera unii arbore de analiză sintactică, Gramatici ambigue şi
+neambigue, Simplificarea gramaticilor dependente de context. Simboluri inaccesibile – eliminarea lor,
+simboluri neproductive – eliminarea lor, simboluri neutilizabile – eliminarea lor, epsilon - producţii şi
+eliminarea lor, redenumiri şi eliminarea lor.
+8. Recursivitate şi eliminarea recursivităţii la stânga. Forma normală Chomsky; Greibach, Leme de
+pompare pentru limbaje independente de context.
+9. Implementari: Implementari de parsere modulare în limbajul functional, cu clase, Haskell. Clasa
+Parserelor, folosirea do-notatiei. Operatii cu parsere. Construirea incrementala a parserului.
+10. Implementari: Transformarea regulilor gramaticale în functii mutual recursive. Limitarile metodei
+*** Bibliografia minimală obligatorie
+- Grigor Moldovan, /Limbaje Formale şi Teoria automatelor/, Edusoft, Bacău, 2005
+- Grune, Dick; Jacobs, J.H. Ceriel, /Parsing Techniques, A Practical Guide/, 2008 Springer Verlag
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Logică matematică și computațională
+
+*** Disciplina
+Logică matematică și computațională/Mathematical and computational logic
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** 1. Calcul propoziţional informal
+Propoziţii şi conectori. Formă propoziţională. Funcţii de adevăr şi
+tabele de adevăr. Reguli. Substituţie. Forme normale. Mulţime adecvată
+de conectori. Forme valide şi forme invalide.
+**** 2. Calcul propoziţional formal
+Sistem formal. Demonstraţie. Formulă. Deducţie. Teorema
+deducţiei. Reciproca teoremei deducţiei. Teorema de adecvare. Extensie
+a unui sistem formal. Consistenţă. Completitudine. Decidabilitate.
+**** 3. Calcul predicativ informal
+Predicate şi cuantificatori. Limbaj de ordinul I. Termeni, atomi,
+formule. Interpretări. Evaluări. Satisfiabilitate. Instanţă a
+interpretării. Adevăr, tautologie. Formulă închisă. Skolemizare.
+**** 4. Calcul predicativ formal
+Sistem formal. Axiome. Reguli. Demonstraţie. Teorema deducţiei.
+Echivalenţă. Substituţie pentru variabile şi pentru formule. Forma
+prenex. Forma clauzală. Algoritm de obţinere a formei
+clauzale. Teorema de adecvare. Modele.
+**** 5. Aplicaţii ale calculului predicatelor în baze de date
+Calculul relaţional. Operatori. Clasificarea operatorilor. Calculul
+relaţional orientat pe tuple. Calculul relaţional orientat pe
+domenii. Aplicaţii.
+**** 6. Sisteme matematice
+Sisteme de ordinul întâi cu egalitate. Axiomele pentru egalitate.
+Teoria grupurilor. Axiomele pentru grupuri. Aritmetica de ordinul
+întâi. Postulatele lui Peano. Teorema lui Gődel. Teoria
+mulţimilor. Consistenţa relativă. Teorema lui Cohen.
+*** Bibliografia minimală obligatorie
+1. Crişan, Gloria Cerasela, /Logica computaţională/, note de curs, 2011
+2. Genesereth, Michael, /Online Computational Logics/ course notes
+http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai funcționează)
+3. Hamilton, A. G., /Logic for mathematicians/, Cambridge University Press, 1988
+4. Krantz, S.G., /Logic and Proof Techniques for Computer Science/, Birkhauser Boston 2002
+5. Mihăilescu, Eugen, /Logica matematică/, Editura Academiei, Bucureşti, 1969
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+
+** Rețele de calculatoare
+
+*** Disciplina
+Rețele de calculatoare/Computer networks
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+Introducere in reţele; Noţiuni fundamentale despre reţele de calculatoare; Medii de comunicaţie;
+Testarea cablurilor; Cablarea LAN şi WAN; Noţiuni fundamentale despre Ethernet; Tehnologii
+Ethernet; Comutaţie Ethernet; Suita de protocoale TCP/IP şi adresarea IP; Noţiuni fundamentale
+despre rutare şi subretele; Nivelurile transport şi aplicaţie din TCP/IP
+*** Bibliografia minimală obligatorie
+- Popa Sorin Eugen, /Reţele de calculatoare – note de curs şi aplicaţii/, Ed. Alma Mater
+Bacău, 2007, ISBN: 978-973-1833-19-4;
+- Năstase F., /Reţele de calculatoare/, Ed. ASE, Bucureşti, 2005;
+- Munteanu A, Şerban V.G., /Reţele locale de calculatoare – proiectare şi administrare/,
+Ed. Polirom, 2003.
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 4
+
+*** Procedura de evaluare a cunoștințelor
+Examen
+** Sisteme de gestiune a bazelor de date
+
+*** Disciplina
+Sisteme de gestiune a bazelor de date/Databases management systems
+
+*** Statutul disciplinei
+Obligatoriu
+
+*** Precondiții
+-
+
+*** Conținutul disciplinei
+**** 1. Baze de date relaţionale.
+Recapitularea conceptelor de bază (privind Bazele de date) De la
+modelul ierarhic la modelul relaţional de BD. Relaţii, domenii,
+predicate.  Modelul relaţional de BD. Independenţa datelor. Dependenţe
+funcţionale. Semantica atributelor.  Valori nule. Chei primare. Chei
+externe. Integritatea cheilor
+**** 2. Normalizarea bazelor de date relaţionale
+Dependenţe funcţionale. Reguli de inferenţă. Forme normale bazate pe
+cheia primară: FN1, FN2, FN3. Forma normală Boyce-Codd. Dependenţe
+multivaloare. FN4
+**** 3. Limbajul SQL Oracle
+Baze de date SQL. Concepţia SGBD Oracle. Definire şi creare
+tabele. Fişiere index.  Actualizarea tabelelor. Selecţia informaţiilor
+din tabelele BD. Selecţii imbricate.Conceptul de vedere.  Executarea
+operaţiilor JOIN. Outer Join, Self Join. Integritatea informaţiilor şi
+accesul concurent la BD. Constrângeri. Tranzacţii. Controlul acesului
+la BD. Useri, role-uri, drepturi de acces sistem şi pe obiecte.
+Comenzi SQL+. Variabile, rapoarte, setări. Funcţii SQL
+**** 4. Limbajul PL/SQL Oracle
+PL/SQL ca o extensie procedurală SQL Oracle. Structura bloc PL/SQL
+Tipuri de date în PL/SQL. Variabile şi constante. Variabile de
+legătură Funcţii PL/SQL. Restricţii de utilizare comenzi
+SQL. Structura script SQL Comenzi procedurale: Structuri
+=IF...THEN...ELSIF=, =FOR... LOOP=, =WHILE... LOOP=, =LOOP...EXIT WHEN=
+Tratarea Excepţiilor.  Definire şi utilizare tabele indexate. Definire
+tipuri =RECORD=. Definire şi utilizare =CURSOR=.  Definire şi utilizare
+=TRIGGER=. Definire şi utilizare Proceduri şi Funcţii
+**** 5. Direcţii noi în domeniul bazelor de date
+Calculatoare specializate pentru baze de date. Interfeţe. Interfeţe
+pentru acces la date. Interfeţe pentru prezentări de date. Generatoare
+de aplicaţii. Facilităţi de administrare. Dicţionare. Baze de
+cunoştinţe
+**** 6. Căutarea informaţiilor de specialitate în baze de date ştiinţifice
+Exemple de baze de date ştiinţifice. Aplicaţii
+*** Bibliografia minimală obligatorie
+- Platforma Oracle Academy, https://academy.oracle.com
+- Velicanu Manole, /Oracle. Platforma pentru baze de date/, Ed. Petrion, 2006
+- V. Felea, /Baze de date relaţionale. Dependenţe./, Ed. Univ. Iaşi, 1996
+- Dollinger R., /Baze de date şi gestiunea tranzacţiilor/, Ed. Albastră, Cluj-Napoca, 1998 (reeditată).
+- Nagy M., /Baze de date. Exemple şi aplicaţii în gestiunea economică/, Ed. Mirton, Timişoara, 2002.
+- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi,
+2005
+- Nechita E., /Baze de date. Suport de curs/, Ed. Alma Mater, 2012
+*** Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+
+*** Procedura de evaluare a cunoștințelor
+Examen

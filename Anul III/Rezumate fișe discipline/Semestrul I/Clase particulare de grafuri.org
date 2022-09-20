@@ -1,0 +1,37 @@
+* Disciplina
+Clase particulare de grafuri/Special classes of graphs
+
+* Statutul disciplinei
+Opțional
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+1. Proiectarea si eficienta algoritmilor.
+2. Algoritmi in grafuri.
+3. Grafuri perfecte.
+4. Grafuri triangulate si generalizari ale lor.
+5. Grafuri de comparabilitate.
+6. Grafuri interval.
+* Bibliografia minimală obligatorie
+1. Thomas H. Cormen, Charless E. Leiserson, Ronald R. Rivest, /Introducere in algoritmi/,
+Editia in limba romana Computer Libris Agora, 1990.
+2. Cornelius Croitoru, /Tehnici de baza in Optimizarea Combinatorie/, Editura Universitatii
+“Al.I.Cuza” Iasi, 1992.
+3. Eleonor Ciurea, /Algoritmi Introducere in algoritmica grafurilor/, Editura Tehnica, Bucuresti,
+2001.
+4. M.C.Golumbic, /Algoritmic Graphs Theory and Perfect Graphs/, Academic Press 1980.
+5. Kurt Melhorn, /Data Structures and Algorithms 2: Graph Algorithms and NP-Completeness/,
+Springer-Verlag Berlin Heidelberg New York Tokyo 1984.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Colocviu

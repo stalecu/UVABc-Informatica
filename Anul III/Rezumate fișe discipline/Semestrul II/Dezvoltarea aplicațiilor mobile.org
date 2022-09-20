@@ -1,0 +1,35 @@
+* Disciplina
+Dezvoltarea aplicațiilor mobile/Mobile applications development
+
+* Statutul disciplinei
+Opțional
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+1. Elemente introductive despre programarea dispzitivelor mobile. Tipologii de aplicații pentru
+dispozitive mobile. Responsiveness.
+2. Arhitectura aplcațiilor mobile Android, IOS și Windows. Exemple Xamarin Forms
+3. Stocarea persistentă a datelor. Apelul serviciilor web, utilizarea protocoalelor JSON și SOAP în
+aplicații Android și IOS
+4. Dezvoltarea interfețelor utilizator multiplatformă. Scalabilitatea interfețelor utilizator pe ecrane
+de dimensiune și rezoluție diferită.
+5. Capabilități. Acces la senzorii dispozitivelor și la resursele de (tele)comunicații în rețele WIFI și
+4G.
+6. Grafică și multimedia pe platformele Android, Windows Phone, Windows 10 și IOS.
+7. Aplicații mobile multiplatformă (cross-platform)
+8. Aplicații mobile cu backend in Cloud
+9. Recapitulare
+* Bibliografia minimală obligatorie
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 12 = 28
+  - Seminar: -
+  - Laborator: 2 x 12 = 24
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Colocviu

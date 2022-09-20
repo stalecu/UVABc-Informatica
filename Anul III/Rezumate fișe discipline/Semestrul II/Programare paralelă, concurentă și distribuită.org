@@ -1,0 +1,46 @@
+* Disciplina
+Programare paralelă, concurentă și distribuită/Parallel, concurrent
+and distributed programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Calcul concurent
+Necesitatea calculului concurent, execuţia pe platforme diverse, măsuri specifice
+** Paralelism implicit
+Metode implicite de creştere a vitezei de procesare
+** Paralelism explicit
+Metode de paralelizare a aplicaţiilor. Specificarea logicii programului. Specificarea
+comunicaţiilor ca şablon
+** Rezolvarea unei probleme prin concurenţă
+Graful de precedenţă. Metode de descompunere
+** Probleme numerice rezolvate paralel
+Modalităţi de construire a algoritmilor paraleli. Evaluarea relaţiilor recursive. Polinoame.
+Paralelism în prelucrarea imaginilor. Algoritmi pentru prelucrarea grafurilor
+** Tehnici efective de paralelizare
+Paralelizarea programării dinamice. Paralelizarea sortării şi a problemelor conexe
+** Probleme actuale ale calculului concurent
+Supercalculatoarele şi modelarea fenomenelor complexe. Reţelele de calcul şi de telefonie
+mobilă.
+* Bibliografia minimală obligatorie
+- Athanasiu I., /Java ca limbaj pentru programarea distribuită/, Matrix Rom, 2000
+- Bumbaru S., /Curs practic de programare orientată pe obiecte în limbajul Java/, Universitatea
+Dunărea de Jos, Galaţi, 2000
+- Chiorean I., /Calcul paralel. Fundamente/, Ed. Microinformatica, 1995
+- Petcu D., Negru V., /Procesare distribuită/, Editura Universităţii de Vest, Seria Alef, Timişoara,
+2002
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 12 = 28
+  - Seminar: 1 x 12 = 14
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

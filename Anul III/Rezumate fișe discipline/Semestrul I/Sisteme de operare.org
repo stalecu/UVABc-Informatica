@@ -1,0 +1,53 @@
+* Disciplina
+Sisteme de operare/Operating systems
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+1. Argumente: De ce se foloseste Linux? De ce folosesc Linux?
+2. O mică istorie a calculatoarelor personale: Structura unui sistem de operare. Sistemul de operare ca
+gestionar de resurse. Resursele gestionate: Procesor, memorie, periferice, informație.
+3. Mesajele nucleului unui sistem de operare Unix: Componente ale unui sistem și identificarea lor.
+Sistemul de fișiere și directoare. Directoare standard.
+4. Directoare importante din sistem: boot, home, etc, var, usr, opt, (samd). Sistemul de fisiere. Sisteme
+de fisiere: EXT2, EXT3, Reiserfs, UFS, XFS, FAT, NTFS/HPFS, ExtFAT. Formatarea sistemelor de fisiere.
+5. Instalarea unui sistem de operare Linux: Pregatiri pentru instalarea unui sistem de
+operare Linux. Partiții ale discului hard. Partiții montate în directoare. Diverse scheme de partiționare.
+6. Instalarea unui sistem de operare Linux (II): Reinstalarea unui sistem vechi sau compromis. Alegerea
+pachetelor. Grupuri de pachete. O serie de pachete importante, comentate. Configurarea din timpul
+instalarii. Configurarea post instalare: Incarcatoare de sisteme de operare: vechiul Lilo versus noul
+Grub.
+7. Drivere și module de nucleu. Procese și gestiunea lor. Prioritatea proceselor și schimbarea ei.
+Utilitarul top. Nice și renice. Procese in timp real.
+8. Drepturi de acces la directoare și fișiere. Utilizatori și grupuri de utilizatori. Programe pentru
+stabilirea drepturilor. Fanioane speciale: suid, sgid, sticky bit. Utilitarul mc. Alte file managere.
+9. Folosirea Linux în retele: Retele SOHO. Echipamente de retea impreuna cu Linux. Reteaua unei
+firme care foloseste Linux pe gateway.
+10. Periferice: Imprimante și fonturi pentru Linux. Instalarea unei imprimante.
+Fonturi Type 1, True Type și Open Type. Gestionarea colectiilor de fonturi.
+11. Scripturi Bash și scripturi in alte limbaje. Formatul fisierelor cu scripturi
+și executia lor interpretativa.
+12. Servicii oferite de sistemul de operare. Servicii absolut necesare la care nu se va renunta. Servicii
+utile. Servicii nesigure.
+13. Subsistemul grafic: Conceptul de server. Relatie client server. Serverul X stand-alone. Serverul X
+14. Sisteme actuale derivate din SO Linux: Raspbian, Android X86.
+* Bibliografia minimală obligatorie
+- Cantrell, David; Johnson, Logan; Lumens Chris; Dahn (trad), /Ghidul oficial al Slackware Linux/, 2005
+- Mourani Gerhard, /Securing & Optimizing Linux/, ed a III-a, 2002
+ISBN: 0968879314 www.openna.com.
+- Popa Dan, [[http://infoifr.ub.ro/images/stories/documente/cursuri_fr_info_sem1/linux-labs.rar][Caiet de laborator Linux]] 
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

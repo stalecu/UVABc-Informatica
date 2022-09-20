@@ -1,0 +1,38 @@
+* Disciplina
+Grafica pe calculator/Computer graphics
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+Elemente introductive. Sistemul grafic OpenGL. Sisteme grafice pentru
+grafica 3D. Caracteristici OpenGL. Bazele programării în
+OpenGL. Arhitectura OpenGL. Descriere generală OpenGL, GLU şi
+GLAUX. OpenGL Utility Library. Biblioteci
+disponibile. GLAUX. Funcţiile callback GLAUX.  Primitive
+geometrice. Primitive geometrice OpenGL. Formatul comenzilor
+OpenGL. Specificarea primitivelor geometrice OpenGL. Atribute ale
+primitivelor de ieşire. Reprezentarea curbelor şi a suprafeţelor
+curbe. Evaluatori. Curbe Bezier. Suprafeţe Bezier. Interfaţa
+NURBS. Curbe NURBS.  Suprafeţe cvadrice. Primitive
+raster. Reprezentarea imaginilor bitmap. Reprezentarea fonturilor prin
+bitmap-uri. Redarea pixmap-urilor. Utilizarea atributelor de redare în
+OpenGL. Prezentare OpenGL ES 3.0. Prezentare EGL. Utilizare
+Cross-Platform Mobile Development în Visual Studio 2015.
+* Bibliografia minimală obligatorie
+- Culea George, /Prelucrare grafică/ – Note de curs - laborator Universitatea „Vasile Alecsandri”
+din Bacău 2015
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 12 = 24
+  - Seminar: -
+  - Laborator: 1 x 12 = 12
+  - Proiect: -
+- Număr de credite: 3
+
+* Procedura de evaluare a cunoștințelor
+Examen

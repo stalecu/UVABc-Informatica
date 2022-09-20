@@ -1,0 +1,57 @@
+* Disciplina
+Programarea aplicațiilor Windows distribuite/ Distributed Windows
+applications programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+- Aplicatii clase, obiecte, asocieri, încapsulare, moştenire,
+  polimorfism prin utilizarea limbajului
+- Visual C#.NET;
+- Aplicatii NET Framework. Prezentarea claselor fundamentale de pe
+  platforma .NET;
+- Aplicatii Windows Forms
+- Aplicatii ListView, ListBox, GridView, TreeView şi legarea acestora
+  la surse de date persistente; Lucrul cu fișiere binare serializate
+  şi lucrul cu fişiere XML;
+- Aplicatii SQL Server/Access din medii orientate obiect
+- Aplicatii ADO.NET
+- Aplicatii WPF – Windows Presentation Foundation
+- Aplicatii programare Code behind
+- Aplicatii testare in Visual Studio
+- Controale fundamentale în Visual C#.NET; controale de utilizator.
+- LINQ
+- LINQ to SQL
+* Bibliografia minimală obligatorie
+- Andrew TROELSEN, Philip JAPIKSE, /Pro C# 7: With .NET and .NET Core/, Apress, 2017,
+ISBN: 978-1-4842-3017-6
+- Bipin JOSHI, /Beginning XML with C# 7, XML Processing and Data Access for C# Developers/,
+Apress, 2017, ISBN: 978-1-4842-3104-3
+- Roberto BRUNETTI. Vanni BONCINELLI, /Exam Ref 70-485: Advanced
+  Windows Store App Development Using C#/. Microsoft Press, 2013,
+  ISBN: 978-0-7356-7686-2
+- Tony NORTHRUP, /Microsoft.NET Framework 3.5 - Application Development Foundation/,
+Microsoft Press, 2009, ISBN 978-0-7356-2619-5
+- Matthew A. STOECKER, Steve J. STEIN, /Microsoft.NET Framework 3.5 -
+  Windows Forms Application Development/, Microsoft Press, 2009, ISBN
+  978-0-7356-2637-9
+- Mike SNELL, Glenn JOHNSON, Tony NORTHRUP, GrandMasters,
+  /Microsoft.NET Framework 3.5 ASP.NET Application Development/,
+  Microsoft Press, 2009, ISBN 9780735625624
+- Ross ANDERSON, /Security Engineering: A Guide to Building Dependable Distributed Systems/,
+2nd Edition, Wiley, 2008, ISBN: 978-0-470-06852-6
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 12 = 24
+  - Seminar: -
+  - Laborator: 4 x 12 = 24
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Colocviu

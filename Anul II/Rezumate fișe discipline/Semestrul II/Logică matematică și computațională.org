@@ -1,0 +1,54 @@
+* Disciplina
+Logică matematică și computațională/Mathematical and computational logic
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** 1. Calcul propoziţional informal
+Propoziţii şi conectori. Formă propoziţională. Funcţii de adevăr şi
+tabele de adevăr. Reguli. Substituţie. Forme normale. Mulţime adecvată
+de conectori. Forme valide şi forme invalide.
+** 2. Calcul propoziţional formal
+Sistem formal. Demonstraţie. Formulă. Deducţie. Teorema
+deducţiei. Reciproca teoremei deducţiei. Teorema de adecvare. Extensie
+a unui sistem formal. Consistenţă. Completitudine. Decidabilitate.
+** 3. Calcul predicativ informal
+Predicate şi cuantificatori. Limbaj de ordinul I. Termeni, atomi,
+formule. Interpretări. Evaluări. Satisfiabilitate. Instanţă a
+interpretării. Adevăr, tautologie. Formulă închisă. Skolemizare.
+** 4. Calcul predicativ formal
+Sistem formal. Axiome. Reguli. Demonstraţie. Teorema deducţiei.
+Echivalenţă. Substituţie pentru variabile şi pentru formule. Forma
+prenex. Forma clauzală. Algoritm de obţinere a formei
+clauzale. Teorema de adecvare. Modele.
+** 5. Aplicaţii ale calculului predicatelor în baze de date
+Calculul relaţional. Operatori. Clasificarea operatorilor. Calculul
+relaţional orientat pe tuple. Calculul relaţional orientat pe
+domenii. Aplicaţii.
+** 6. Sisteme matematice
+Sisteme de ordinul întâi cu egalitate. Axiomele pentru egalitate.
+Teoria grupurilor. Axiomele pentru grupuri. Aritmetica de ordinul
+întâi. Postulatele lui Peano. Teorema lui Gődel. Teoria
+mulţimilor. Consistenţa relativă. Teorema lui Cohen.
+* Bibliografia minimală obligatorie
+1. Crişan, Gloria Cerasela, /Logica computaţională/, note de curs, 2011
+2. Genesereth, Michael, /Online Computational Logics/ course notes
+http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai funcționează)
+3. Hamilton, A. G., /Logic for mathematicians/, Cambridge University Press, 1988
+4. Krantz, S.G., /Logic and Proof Techniques for Computer Science/, Birkhauser Boston 2002
+5. Mihăilescu, Eugen, /Logica matematică/, Editura Academiei, Bucureşti, 1969
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen

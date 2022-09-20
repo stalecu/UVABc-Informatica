@@ -1,0 +1,64 @@
+* Disciplina
+Sisteme de gestiune a bazelor de date/Databases management systems
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** 1. Baze de date relaţionale.
+Recapitularea conceptelor de bază (privind Bazele de date) De la
+modelul ierarhic la modelul relaţional de BD. Relaţii, domenii,
+predicate.  Modelul relaţional de BD. Independenţa datelor. Dependenţe
+funcţionale. Semantica atributelor.  Valori nule. Chei primare. Chei
+externe. Integritatea cheilor
+** 2. Normalizarea bazelor de date relaţionale
+Dependenţe funcţionale. Reguli de inferenţă. Forme normale bazate pe
+cheia primară: FN1, FN2, FN3. Forma normală Boyce-Codd. Dependenţe
+multivaloare. FN4
+** 3. Limbajul SQL Oracle
+Baze de date SQL. Concepţia SGBD Oracle. Definire şi creare
+tabele. Fişiere index.  Actualizarea tabelelor. Selecţia informaţiilor
+din tabelele BD. Selecţii imbricate.Conceptul de vedere.  Executarea
+operaţiilor JOIN. Outer Join, Self Join. Integritatea informaţiilor şi
+accesul concurent la BD. Constrângeri. Tranzacţii. Controlul acesului
+la BD. Useri, role-uri, drepturi de acces sistem şi pe obiecte.
+Comenzi SQL+. Variabile, rapoarte, setări. Funcţii SQL
+** 4. Limbajul PL/SQL Oracle
+PL/SQL ca o extensie procedurală SQL Oracle. Structura bloc PL/SQL
+Tipuri de date în PL/SQL. Variabile şi constante. Variabile de
+legătură Funcţii PL/SQL. Restricţii de utilizare comenzi
+SQL. Structura script SQL Comenzi procedurale: Structuri
+=IF...THEN...ELSIF=, =FOR... LOOP=, =WHILE... LOOP=, =LOOP...EXIT WHEN=
+Tratarea Excepţiilor.  Definire şi utilizare tabele indexate. Definire
+tipuri =RECORD=. Definire şi utilizare =CURSOR=.  Definire şi utilizare
+=TRIGGER=. Definire şi utilizare Proceduri şi Funcţii
+** 5. Direcţii noi în domeniul bazelor de date
+Calculatoare specializate pentru baze de date. Interfeţe. Interfeţe
+pentru acces la date. Interfeţe pentru prezentări de date. Generatoare
+de aplicaţii. Facilităţi de administrare. Dicţionare. Baze de
+cunoştinţe
+** 6. Căutarea informaţiilor de specialitate în baze de date ştiinţifice
+Exemple de baze de date ştiinţifice. Aplicaţii
+* Bibliografia minimală obligatorie
+- Platforma Oracle Academy, https://academy.oracle.com
+- Velicanu Manole, /Oracle. Platforma pentru baze de date/, Ed. Petrion, 2006
+- V. Felea, /Baze de date relaţionale. Dependenţe./, Ed. Univ. Iaşi, 1996
+- Dollinger R., /Baze de date şi gestiunea tranzacţiilor/, Ed. Albastră, Cluj-Napoca, 1998 (reeditată).
+- Nagy M., /Baze de date. Exemple şi aplicaţii în gestiunea economică/, Ed. Mirton, Timişoara, 2002.
+- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi,
+2005
+- Nechita E., /Baze de date. Suport de curs/, Ed. Alma Mater, 2012
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen

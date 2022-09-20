@@ -1,0 +1,113 @@
+* Disciplina
+Metode avansate de programare/ Advanced programming methods
+
+* Statutul disciplinei
+Opțional
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Algoritmii si eficiența lor.
+Ce este un algoritm. Probleme si cazuri. Eficienta algoritmilor. Cazul
+mediu si cel mai nefavorabil. Ce este o operaţie elementara. De ce
+avem nevoie de algoritmi eficienţi? Analiza algoritmilor eficienţi
+** Metoda Greedy.
+O problema prototip. Tipul de probleme la care se aplica metoda
+Greedy. Mecanism general. Probleme ilustrative. Complexitatea
+algoritmilor Greedy
+** Metoda Backtracking.
+Doua exemple prototip. Tipul de probleme la care se aplica metoda
+Backtracking. Mecanism general. Probleme ilustrative Complexitatea
+algoritmilor Backtracking. Backtracking generalizat (in
+plan). Backtracking recursiv. Variante ale metodei Backtracking
+** Metoda programării dinamice.
+Exemplu prototip. Tipul de probleme la care se aplica metoda
+programării dinamice. Mecanism general. Probleme
+ilustrative. Compararea metodei programării dinamice cu metoda Greedy.
+Complexitatea metodei programării dinamice
+** Metoda Divide et impera.
+Exemplu prototip. Tipul de probleme la care se aplica metoda Divide et
+impera. Mecanism general. Probleme ilustrative Complexitatea metodei
+Divide et impera
+** Metoda Branch and bound.
+Exemplu prototip. Arborele spaţiului de soluţii. Complexitatea
+algoritmilor Branch and bound. Complexitatea metodei Divide et impera
+** Metode euristice.
+Descrierea generala. Exemple Algoritmi probabilistici. O problema
+prototip. Caracteristicile algoritmilor probabilistici. Clasificarea
+algoritmilor probabilistici. Algoritmii Monte Carlo. Algoritmii Las
+Vegas. Algoritmii Sherwood. Concluzii
+* Bibliografia minimală obligatorie
+- Octavian Aspru, /Tehnici de programare/, Editura Adias, Rm. Vîlcea, 1997
+- Leon Livovschi, Horia Georgescu, /Sinteza si analiza algoritmilor/, Bucureşti
+- Bogdan Pătruţ, /Algorithm Design Paradigms/, AVM, München, 2011
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 1 x 14 = 14
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+* Procedura de evaluare a cunoștințelor
+Examen
+
+* Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Capitolul 1: Introducere
+Paradigme ale programării. Exemplificări.
+** Capitolul 2: Algoritmi
+Etapele rezolvării unei probleme, Definiţia algoritmului,
+Caracteristicile algoritmilor. Reprezentări.
+** Capitolul 3: Date
+ Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
+ date structurate.
+** Capitolul 4: Elementele programării structurate
+ Structurile de bază, auxiliare. Teorema programării structurate,
+ Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
+ Implementarea structurilor de control, Exemple de algoritmi,
+ Complexitatea algoritmilor
+** Capitolul 5: Vectori și înregistrări
+ Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
+ Sortare, interclasare
+** Capitolul 6: Pointeri și referințe
+ Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
+** Capitolul 7: Subprograme
+ Definirea subprogramelor, Circuitul datelor între subprograme
+** Capitolul 8: Recursivitate
+ Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
+Divide- et-impera, Probleme ale căror rezolvări se pot defini în
+termeni recursivi
+** Capitolul 9: Șiruri de caractere
+ Prelucrări. Exemple de aplicaţii.
+** Capitolul 10: Fișiere
+ Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
+** Capitolul 11: Probleme recapitulative
+Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
+* Bibliografia minimală obligatorie
+- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
+- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
+- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
+la http://www.infoifr.ub.ro (se va solicita parola)
+- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
+(se va solicita parola)
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen

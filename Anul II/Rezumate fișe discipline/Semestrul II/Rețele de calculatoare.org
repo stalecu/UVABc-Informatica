@@ -1,0 +1,31 @@
+* Disciplina
+Rețele de calculatoare/Computer networks
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+Introducere in reţele; Noţiuni fundamentale despre reţele de calculatoare; Medii de comunicaţie;
+Testarea cablurilor; Cablarea LAN şi WAN; Noţiuni fundamentale despre Ethernet; Tehnologii
+Ethernet; Comutaţie Ethernet; Suita de protocoale TCP/IP şi adresarea IP; Noţiuni fundamentale
+despre rutare şi subretele; Nivelurile transport şi aplicaţie din TCP/IP
+* Bibliografia minimală obligatorie
+- Popa Sorin Eugen, /Reţele de calculatoare – note de curs şi aplicaţii/, Ed. Alma Mater
+Bacău, 2007, ISBN: 978-973-1833-19-4;
+- Năstase F., /Reţele de calculatoare/, Ed. ASE, Bucureşti, 2005;
+- Munteanu A, Şerban V.G., /Reţele locale de calculatoare – proiectare şi administrare/,
+Ed. Polirom, 2003.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

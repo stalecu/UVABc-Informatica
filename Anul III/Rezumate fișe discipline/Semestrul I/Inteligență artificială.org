@@ -1,0 +1,28 @@
+* Disciplina
+Inteligență artificială/Artificial intelligence
+
+* Statutul disciplinei
+Obligatoriu
+* Precondiții
+-
+
+* Conținutul disciplinei
+Bazele inteligenţei artificiale. Sisteme expert. Realizarea unui
+program în mediul de programare CLIPS. Reţele neurale. Mulţimi
+nuanţate. Algoritmi genetici.
+* Bibliografia minimală obligatorie
+- Rotar Dan, /Inteligenţă artificială/, Curs digital, Bacău, 2014
+- Tudor Liviana Nicoleta, /Rețele neuronale artificiale. Aplicații Matlab/, Matrix Rom,
+București, 2013
+- D. Dumitrescu, /Principiile Inteligenței Artificiale/, Ed. Albastră, 2005
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 1 x 14 = 14
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 3
+
+* Procedura de evaluare a cunoștințelor
+Examen

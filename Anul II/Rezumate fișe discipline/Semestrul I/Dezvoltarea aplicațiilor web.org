@@ -1,0 +1,55 @@
+* Disciplina
+Dezvoltarea aplicațiilor web/Web applications development
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+Internetul și Caracteristicile Web-ului.  Arhitectura unei aplicatii
+web. Modele de formatare a documentelor Web.  Structura unui document
+HTML. Taguri de baza. Crearea paginilor web utlizând limbajul (X)HTML,
+Structura documentelor DHTML, HTML5.  Formatarea paginilor Web prin
+intermediul stilurilor CSS (Cascading Style Sheets), (CSS2 & CSS3).
+Elemente multimedia pentru programarea web.  Servicii, sisteme și
+medii de dezvoltare a aplicatiilor in internet, adresarea resurselor
+in spatiu www și protocolale web (protocolul HTTP și Metodele GET,
+POST).  Servere Web (HTTP), Servere de Aplicatii Web Java: (Java
+Servlets. JSP (Java Server Pages), ASP (Active Server Pages))
+(concepte, caracteristici, exemple). Browsere Web; Programare web la
+nivel de client-side - Concepte si tehnici de baza.  Tehnologii de
+dezvoltare si implementare. JavaScript (js). DOM - Document Object
+Model.  Operatori și expresii. Obiecte (Obiectul "Window" și de
+nivelul trei). Ajax. jQuery. Expresii Regulate (ER) (Regular
+expressions). Programare web la nivel de server (server-side)- Limbaje
+de scripting-PHP: Elemente de baza.  Tehnici de accesare a bazelor de
+date (MySQL) folosind PHP și a limbajului SQL; Conectarea la diferite
+BD. ODBC. Tranzactii web. Cookie-uri & Sesiuni. Elemente de securitate
+si optimizare a aplicatiilor web. Securitatea Clientului Web. SQL
+injection. Roboti, Administrarea continutului și Optimizarea
+site-urilor Web: pentru indexarea de catre motoarele de căutare.
+Strategii SEO-Search Engine Optimization.  Arhitectura orientată spre
+servicii web (web services): (a) SOA- Service Oriented Architecture
+(Descrierea serviciilor Web, (b) Limbajul WSDL- Web Services
+Description Language; (c) Protocolul SOAP- Simple Object Access
+Protocol); Web semantic. Publicare site/bazelor de date pe WEB.
+Întretinerea site-urilor WEB.
+* Bibliografia minimală obligatorie
+- Pruteanu Eusebiu, /Programare web. Ghid practic./, Editura Alma Mater, 2018
+- Sabin Buraga, /Programarea in web 2.0./, Editura POLIROM, 2017
+- Cursuri și laboratoare: http://examene.pe.ub.ro/ ; http://cadredidactice.ub.ro/pruteanue/
+- Robert W. Sebesta, /Programming the World Wide Web/, 4th Edition, 2008, ISBN: 0-321-48969-1
+- Jonathan Chaffer, Karl Swedberg, /Learning jQuery/, 3rd Edition, Packt Publishing, 2011
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 1 x 14 = 14
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen

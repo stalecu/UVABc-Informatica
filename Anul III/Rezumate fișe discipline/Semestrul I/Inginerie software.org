@@ -1,0 +1,34 @@
+* Disciplina
+Inginerie software/Software engineering
+
+* Statutul disciplinei
+Opțional
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+Sisteme informatice. Probleme şi perspective; Etapele de dezvoltare a
+sistemelor de programe; Paradigmele de dezvoltare a sistemelor
+software; UML- Limbaj unificat de modelare; Principii de proiectare
+orientată pe obiect; Şabloane de proiectare software; Proiectarea
+sistemelor software; Testarea sistemelor software; Estimarea
+costurilor unui proiect software; Calitatea sistemelor software;
+Evaluarea sistemelor software.
+* Bibliografia minimală obligatorie
+- Cornelia Novac Ududec, /Ingineria sistemelor de programe - Ingineria programării/, Ediţie
+adăugită şi revizuită, Editura Alma Mater, Bacău, 2011;
+- Rotar Dan, /Ingineria programelor/, Editura Alma Mater, Bacău, 2007;
+- Pilat Florin, s.a., /Metode, tehnici şi instrumente în ingineria programării/, EdituraTehnică,
+Bucureşti 1985
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 4
+
+* Procedura de evaluare a cunoștințelor
+Examen

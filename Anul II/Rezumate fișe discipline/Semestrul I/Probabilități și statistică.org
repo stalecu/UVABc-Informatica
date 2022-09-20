@@ -1,0 +1,64 @@
+* Disciplina
+Probabilități și statistică/Probabilities and statistics
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+** Cîmp de probabilitate
+Cîmp de evenimente. Cîmp de probabilitate. Probabilităţi
+condiţionate. Evenimente independente. Scheme probabilistice
+clasice. Aplicaţii la scheme probabilistice.
+** Variabile aleatoare
+Definiţia variabilei aleatoare. Variabile discrete şi
+continue. Variabile aleatoare independente. Reprezentări grafice ale
+funcţiei de frecvenţă şi densităţii de probabilitate.  Caracteristici
+numerice ale unei variabile aleatoare: valoare medie, momente,
+covarianţă, coeficient de corelaţie.
+** Funcţii de repartiţie
+Funcţia de repartiţie. Densitate de repartiţie. Caracteristici
+numerice ale funcţiilor de repartiţie. Vectori aleatori. Funcţii de
+repartiţie şi densităţi de repartiţie multidimensionale.  Momente
+obişnuite şi centrate. Proprietăţi. Inegalităţi pentru momente:
+Holder, Schwartz, Minkowski. Corelaţie şi coeficient de
+corelaţie. Funcţii de argumente aleatoare şi funcţiile lor de
+repartiţie. Funcţie caracteristică. Proprietăţi. Funcţia
+generatoare. Teorema de inversiune.
+** Legi de repartiţie
+Repartiţii de tip discret: uniformă, binomială, Poisson, binomială cu
+exponent negativ, hipergeometrică, multinomială. Repartiţii care admit
+densitate de repartiţie. Repartiţia normală N(m, σ); repartiţia
+uniformă pe intervalul (a,b); repartitia Pareto. Repartiţii gama de
+parametri a,b>0; Repartiţia Student. Repartiţia Snedecor şi repartiţia
+Fischer. Repartiţia beta şi repartiţia Weibull. Repartiţia normală n
+dimensională.
+** Legea numerelor mari
+Legea slabă a numerelor mari. Legea tare a numerelor mari. Inegalităţi
+şi teoreme: Bernoulli, Cebîşev, Laplace, Leapunov.
+** Elemente de teoria informaţiei
+Informaţia; cantitatea de informaţie. Entropie; proprietăţi ale
+entropiei. Entropie relativă.  Transmiterea
+informaţiei. Codificare. Cantitatea de informaţie conţinută într-un
+model input-output.
+* Bibliografia minimală obligatorie
+- M. Iosifescu, G. Mihoc, R. Teodorescu, /Teoria probabilităţilor şi statistică matematică/, Ed.
+Didactică şi Pedagogică, Bucureşti, 1966
+- G. Ciucu, V. Craiu, C. Săcuiu, /Culegere de probleme de teoria probabilităţilor/, Ed. Tehnică,
+1967
+- G. Puiu, E. Nechita, /Calculul probabilităţilor şi elemente de statistică matematică/, Note de
+curs, Universitatea din Bacău, 1996.
+- E. Nechita, /Simularea evenimentelor aleatoare/, Ed. Tehnopress, Iaşi, 2005
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: 2 x 14 = 28
+  - Laborator: -
+  - Proiect: -
+- Număr de credite: 6
+
+* Procedura de evaluare a cunoștințelor
+Examen

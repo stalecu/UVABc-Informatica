@@ -1,0 +1,58 @@
+* Disciplina
+Fundamentele programării/ Fundamentals of programming
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+1. Rezolvarea numerică a sistemelor liniare de ecuaţii algebrice şi
+   inversarea matricelor. Aspecte teoretice generale. Metoda
+   Gauss. Convergenţa şi ordinul metodei. Metode
+   iterative. Convergenţa. Metodele iterative Jacobi şi
+   Gauss-Seidel. Convergenţa lor.
+2. Rezolvarea numerică a ecuaţiilor (sistemelor de ecuaţii) algebrice
+   neliniare. Metode elementare (metoda înjumătăţirii intervalului,
+   metoda coardei, metoda tangentei). Aspecte teoretice
+   generale. Convergenţa metodei coardei şi a tangentei. Metoda
+   Lobacevski pentru determinarea rădăcinilor unui polinom.
+3. Rezolvarea numerică a problemelor algebrice de valori şi vectori
+   proprii. Aspecte teoretice generale. Algoritmul Jacobi. Convergenţa
+   algoritmului.  Algoritmul Givens pentru calculul valorilor proprii
+   ale unei matrice tridiagonale.  Algoritmi de calcul pentru
+   determinarea valorilor şi vectorilor proprii ale matricelor
+   nehermitiene.
+4. Elemente privind aproximarea şi interpolarea funcţiilor Sistem
+   Cebîşev de funcţii, existenţa şi unicitatea polinomului generalizat
+   de interpolare. Polinomul Lagrange de interpolare, diferenţe
+   divizate, polinomul Newton de interpolare. Convergenţa aproximării
+   prin interpolare, interpolarea prin polinoame trigonometrice,
+   aproximarea funcţiilor prin metoda celor mai mici pătrate.
+5. Elemente de derivare numerică. Derivarea formulei de interpolare a
+   lui Lagrange, diferenţe finite, formule de derivare pe noduri
+   echidistante. Metoda coeficienţilor nedeterminaţi.
+6. Elemente de integrare numerică. Formule de cuadratură de tip
+   Newton-Cotes. Formule de cuadratură iterate, cazuri
+   particulare. Formulele Gauss de integrare aproximativă, integrarea
+   numerică prin metoda Romberg.
+7. Elemente privind rezolvarea ecuaţiilor diferenţiale ordinare Metode
+   numerice directe: dezvoltarea în serie Taylor, metoda Euler şi
+   Runge-Kutta. Convergenţa şi stabilitatea metodelor.
+* Bibliografia minimală obligatorie
+- Bucur, C.M., /Metode numerice/, Ed. Facla, Timişoara, 1973.
+- Coman, G., /Analiză numerică/, Ed. Libris, Cluj, 1995.
+- Ignat, C., Ilioi, C., Jucan, T., /Elemente de informatică şi calcul numeric/, Univ. „Al. I. Cuza”,
+Iaşi, Fac. de Matematică, 1989.
+- Juan Antonio Infante del Rio, Jose Maria Rey Cabezas, /Metodos Numericas, Teoria, problemas y practicas con MATLAB/, Ed. Piramide, 2002.
+- Press, W.H., Teuklosky, S.A., Vetterling, W.T., Flannery, B.P., /Numerical Recipes in C: The Art of Scientific Computing/, (Cambridge University Press, Cambridge, 1992).
+- Vladislav, T., Raşa, I., /Analiză numerică/, Ed. Tehnică, Bucureşti, 1997.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 2
+- Forme de activitate/număr de ore:
+ - Curs: 2 x 14 = 28
+ - Seminar: -
+ - Laborator: 2 x 14 = 28
+ - Proiect: -
+- Număr de credite: 5

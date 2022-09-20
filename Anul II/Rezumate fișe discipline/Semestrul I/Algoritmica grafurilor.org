@@ -1,0 +1,44 @@
+* Disciplina
+Algoritmica grafurilor/ Graph algorithms
+
+* Statutul disciplinei
+Obligatoriu
+
+* Precondiții
+-
+
+* Conținutul disciplinei
+1. Noţiuni de bază în teoria grafurilor. Arbori şi arborescenţe.
+2. Algoritmi elementari în grafuri. Reprezentări ale grafurilor,
+   căutarea în lăţime şi lungime, sortarea topologică.
+3. Drumuri minime în grafuri. Algoritmul lui Dijkstra, algoritmul lui
+   Bellman.
+4. Fluxuri în reţele. Reţele de transport, algoritmul lui Ford şi
+   Fulkerson, cuplaje în grafuri bipartite.
+5. Probleme de stabilitate, de colorare, de conexiune.
+* Bibliografia minimală obligatorie
+- Cornelius Croitoru, /Tehnici de bază în Optimizarea Combinatorie/,
+  Editura Universităţii “Al. I. Cuza” Iasi, 1992.
+- Eleonor Ciurea, /Algoritmi. Introducere in algoritmica grafurilor/,
+  Editura Tehnică, Bucureşti,
+2001.
+- M. C. Golumbic, /Algoritmic Graphs Theory and Perfect Graphs/,
+  Academic Press 1980.
+- Udi Manber, /[[http://libgen.is/book/index.php?md5=A4557FA99B3B59574EA0171E207BBD7E][Introduction to Algorithms. A Creative
+  Approach]]/. Addison Wesley, 1989.
+- Mihai Talmaciu, /Algoritmica grafurilor/, Alma Mater, 2008, ISBN
+  978-973-1833-76-7
+- Mihai Talmaciu, /Probleme de optimizare combinatorialǎ ȋn clase
+  particulare de grafuri și aplicații/, Editura Alma Mater, Bacǎu,
+  2018, ISBN: 978-606-527-592-8.
+* Fond de timp alocat pe forme de activitate
+- Semestrul: 1
+- Forme de activitate/număr de ore:
+  - Curs: 2 x 14 = 28
+  - Seminar: -
+  - Laborator: 2 x 14 = 28
+  - Proiect: -
+- Număr de credite: 5
+
+* Procedura de evaluare a cunoștințelor
+Examen
