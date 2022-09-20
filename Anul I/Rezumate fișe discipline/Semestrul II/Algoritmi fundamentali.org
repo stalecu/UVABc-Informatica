@@ -19,7 +19,7 @@ Obligatoriu
 10. Hashing
 11. Sinteze, recapitulare
 * Bibliografia minimală obligatorie
-- Rodica Brânzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
+- Rodica Brînzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
 - Thomas H.Cormen, Charles E.Leiserson, Ronald R.Rivest, /Introducere în Algoritmi/, Agora
 Press, Traducere.
 - Mitchell Wat şi Robert Lafere, /Structuri de date şi algoritmi in Java/, Teora, 1999.

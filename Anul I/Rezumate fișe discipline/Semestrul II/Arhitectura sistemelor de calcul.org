@@ -14,7 +14,7 @@ Dezvoltarea aptitudinilor de programare a structurii hardware.
 
 * Bibliografia minimală obligatorie
 - Rotar Dan, /Arhitectura sistemelor de calcul/, Curs în format electronic, 2013
-- Pârvulescu Lucian, /Arhitectura sistemelor de calcul/, Îndrumar de aplicații. Editura Matrix
+- Pîrvulescu Lucian, /Arhitectura sistemelor de calcul/, Îndrumar de aplicații. Editura Matrix
 Rom, București, 2015
 - Baruch Z. F., /Arhitectura calculatoarelor/, Editura Todesco, Cluj-Napoca, 2001
 * Fond de timp alocat pe forme de activitate

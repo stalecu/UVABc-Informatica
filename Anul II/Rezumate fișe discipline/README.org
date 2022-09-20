@@ -86,7 +86,7 @@ Obligatoriu
 *** Conținutul disciplinei
 Internetul și Caracteristicile Web-ului.  Arhitectura unei aplicatii
 web. Modele de formatare a documentelor Web.  Structura unui document
-HTML. Taguri de baza. Crearea paginilor web utlizând limbajul (X)HTML,
+HTML. Taguri de baza. Crearea paginilor web utlizînd limbajul (X)HTML,
 Structura documentelor DHTML, HTML5.  Formatarea paginilor Web prin
 intermediul stilurilor CSS (Cascading Style Sheets), (CSS2 & CSS3).
 Elemente multimedia pentru programarea web.  Servicii, sisteme și
@@ -172,7 +172,7 @@ prototip. Caracteristicile algoritmilor probabilistici. Clasificarea
 algoritmilor probabilistici. Algoritmii Monte Carlo. Algoritmii Las
 Vegas. Algoritmii Sherwood. Concluzii
 *** Bibliografia minimală obligatorie
-- Octavian Aspru, /Tehnici de programare/, Editura Adias, Rm. Vâlcea, 1997
+- Octavian Aspru, /Tehnici de programare/, Editura Adias, Rm. Vîlcea, 1997
 - Leon Livovschi, Horia Georgescu, /Sinteza si analiza algoritmilor/, Bucureşti
 - Bogdan Pătruţ, /Algorithm Design Paradigms/, AVM, München, 2011
 *** Fond de timp alocat pe forme de activitate
@@ -186,64 +186,7 @@ Vegas. Algoritmii Sherwood. Concluzii
 *** Procedura de evaluare a cunoștințelor
 Examen
 
-*** Disciplina
-Fundamentele programării/ Fundamentals of programming
 
-*** Statutul disciplinei
-Obligatoriu
-
-*** Precondiții
--
-
-*** Conținutul disciplinei
-**** Capitolul 1: Introducere
-Paradigme ale programării. Exemplificări.
-**** Capitolul 2: Algoritmi
-Etapele rezolvării unei probleme, Definiţia algoritmului,
-Caracteristicile algoritmilor. Reprezentări.
-**** Capitolul 3: Date
- Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
- date structurate.
-**** Capitolul 4: Elementele programării structurate
- Structurile de bază, auxiliare. Teorema programării structurate,
- Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
- Implementarea structurilor de control, Exemple de algoritmi,
- Complexitatea algoritmilor
-**** Capitolul 5: Vectori și înregistrări
- Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
- Sortare, interclasare
-**** Capitolul 6: Pointeri și referințe
- Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
-**** Capitolul 7: Subprograme
- Definirea subprogramelor, Circuitul datelor între subprograme
-**** Capitolul 8: Recursivitate
- Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
-Divide- et-impera, Probleme ale căror rezolvări se pot defini în
-termeni recursivi
-**** Capitolul 9: Șiruri de caractere
- Prelucrări. Exemple de aplicaţii.
-**** Capitolul 10: Fișiere
- Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
-**** Capitolul 11: Probleme recapitulative
-Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
-*** Bibliografia minimală obligatorie
-- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
-- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
-- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
-la http://www.infoifr.ub.ro (se va solicita parola)
-- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
-(se va solicita parola)
-*** Fond de timp alocat pe forme de activitate
-- Semestrul: 1
-- Forme de activitate/număr de ore:
-  - Curs: 2 x 14 = 28
-  - Seminar: -
-  - Laborator: 2 x 14 = 28
-  - Proiect: -
-- Număr de credite: 6
-
-*** Procedura de evaluare a cunoștințelor
-Examen
 ** Probabilități și statistică
 
 *** Disciplina
@@ -321,24 +264,16 @@ Opțional
 -
 
 *** Conținutul disciplinei
-1. Comunicarea, limbajul, principii ale comunicării verbale: claritatea, simplitatea,
-corectitudinea. Matricea comunicării științifice.
-2. Materialul ştiinţific. Etape şi procedura generală de elaborare. Caracteristici ale unei lucrări
-ştiinţifice. Scop şi beneficii. Necesitate şi dificultate.
-3. Documentare. Tipuri de documente (articole, cărţi, monografii, documente electronice, baze
-de date şi aplicaţii). Etape şi faze. Specificul documentării în domeniul Matematică.
-4. Documentare. Baze de date online, free trial, cu acces deschis. Depozite digitale
-instituţionale. Reviste online cu acces deschis. Căutare avansată, utilitare de căutare.
-5. Structura generală a unui material ştiinţific. Premise şi condiţii (originalitate, elemente
-obligatorii în concordanţă cu reglementările naţionale şi/sau intenaţionale şi specifice).
-6. Tehnoredactarea materialului ştiinţific: cerinţe de scriere şi predare a lucrărilor. Declaraţia
-de autenticitate. Diseminarea rezultatelor ştiinţifice
+1. Comunicarea, limbajul, principii ale comunicării verbale: claritatea, simplitatea, corectitudinea. Matricea comunicării științifice.
+2. Materialul ştiinţific. Etape şi procedura generală de elaborare. Caracteristici ale unei lucrări ştiinţifice. Scop şi beneficii. Necesitate şi dificultate.
+3. Documentare. Tipuri de documente (articole, cărţi, monografii, documente electronice, baze de date şi aplicaţii). Etape şi faze. Specificul documentării în domeniul Matematică.
+4. Documentare. Baze de date online, free trial, cu acces deschis. Depozite digitale instituţionale. Reviste online cu acces deschis. Căutare avansată, utilitare de căutare.
+5. Structura generală a unui material ştiinţific. Premise şi condiţii (originalitate, elemente obligatorii în concordanţă cu reglementările naţionale şi/sau intenaţionale şi specifice).
+6. Tehnoredactarea materialului ştiinţific: cerinţe de scriere şi predare a lucrărilor. Declaraţia de autenticitate. Diseminarea rezultatelor ştiinţifice
 7. Elemente de etică şi deontologie. Plagiatul
 *** Bibliografia minimală obligatorie
-1. American Psychological Association, Publication Manual of the American Psychological
-Association (5th ed.). Washington, DC, 2001, http://www.apa.org/ethics/code/92-02codecompare.pdf
-2. Andronescu, Şerban C., /Tehnica scrierii academice/, Bucureşti, Editura Fundaţiei „România
-de mâine”, 1977
+1. American Psychological Association, Publication Manual of the American Psychological Association (5th ed.). Washington, DC, 2001, http://www.apa.org/ethics/code/92-02codecompare.pdf
+2. Andronescu, Şerban C., /Tehnica scrierii academice/, Bucureşti, Editura Fundaţiei „Romînia de mâine”, 1977
 3. Eco, Umberto, /Cum se face o teză de licenţă/, Editura Pontica, 2000
 *** Fond de timp alocat pe forme de activitate
 - Semestrul: 1
@@ -395,64 +330,6 @@ Press, 2009
 *** Procedura de evaluare a cunoștințelor
 Examen
 
-*** Disciplina
-Fundamentele programării/ Fundamentals of programming
-
-*** Statutul disciplinei
-Obligatoriu
-
-*** Precondiții
--
-
-*** Conținutul disciplinei
-**** Capitolul 1: Introducere
-Paradigme ale programării. Exemplificări.
-**** Capitolul 2: Algoritmi
-Etapele rezolvării unei probleme, Definiţia algoritmului,
-Caracteristicile algoritmilor. Reprezentări.
-**** Capitolul 3: Date
- Constante şi variabile. Expresii, Tipuri de date simple, Tipuri de
- date structurate.
-**** Capitolul 4: Elementele programării structurate
- Structurile de bază, auxiliare. Teorema programării structurate,
- Instrucţiunea de atribuire. Operaţii de intrare şi ieşire,
- Implementarea structurilor de control, Exemple de algoritmi,
- Complexitatea algoritmilor
-**** Capitolul 5: Vectori și înregistrări
- Definire vectori/structuri ca tip de date. Citire, afişare, exemple.
- Sortare, interclasare
-**** Capitolul 6: Pointeri și referințe
- Tipul pointer. Tipul referinţă. Noţiunea de variabilă dinamică. Liste
-**** Capitolul 7: Subprograme
- Definirea subprogramelor, Circuitul datelor între subprograme
-**** Capitolul 8: Recursivitate
- Prezentare generală, Funcţii recursive, Proceduri recursive, Metoda
-Divide- et-impera, Probleme ale căror rezolvări se pot defini în
-termeni recursivi
-**** Capitolul 9: Șiruri de caractere
- Prelucrări. Exemple de aplicaţii.
-**** Capitolul 10: Fișiere
- Tipuri de fisiere. Operatii cu fisiere. Aplicatii.
-**** Capitolul 11: Probleme recapitulative
-Aplicaţii diverse cu caracter recapitulativ al materiei de curs 
-*** Bibliografia minimală obligatorie
-- Bogdan Pătruţ, /Aplicaţii în C şi C++/, Editura Teora, Bucureşti, 1998
-- B. Kernigham, D. Ritchie - /Limbajul de programare C/, Ed. Teora, orice ediție
-- E. Nechita, G. C. Crişan, I.M. Furdu, /Îndrumar de laborator C/C++/, regim intern, disponibil
-la http://www.infoifr.ub.ro (se va solicita parola)
-- Furdu I. – /Programare procedurală/ - note de curs, draft, disponibil la http://www.infoifr.ub.ro
-(se va solicita parola)
-*** Fond de timp alocat pe forme de activitate
-- Semestrul: 1
-- Forme de activitate/număr de ore:
-  - Curs: 2 x 14 = 28
-  - Seminar: -
-  - Laborator: 2 x 14 = 28
-  - Proiect: -
-- Număr de credite: 6
-
-*** Procedura de evaluare a cunoștințelor
-Examen
 * Semestrul II
 ** Calcul numeric
 
@@ -526,38 +403,60 @@ Obligatoriu
 -
 
 *** Conținutul disciplinei
-1. Introducere în gramatici şi automate. Notaţii algebrice folosite: mulţimi, relaţii, relaţii binare, tipuri de
-relaţii, închiderea unei relaţii, inducţie, scheme de inducţie, inducţie cu mai multe reguli, recursie,
-recursivitatea ca instrument de realizare a interpretoarelor şi compilatoarelor;
-2. Noţiuni de teoria grafurilor, Limbaje formale, văzute ca mulţimi de cuvinte, Reuniuni şi operaţii cu
-limbaje, Gramatici ale limbajelor formale, Derivare, Exemplu: Gramatica unui limbaj de programare.
-Clasificarea gramaticilor, Ierarhia lui Chomsky, Echivalenţa gramaticilor, Limbaje decidabile.
-3. Automate finit(e) deterministe: Complexitatea analizei sintactice, de ce limbajele de tip 3 sunt
-interesante. O gramatică de tip 3. Reprezentarea grafică. Introducere informală în automate. Tranziţii
-deterministe şi tranziţii nedeterministe. Automate finite deterministe şi automate finite nedeterministe,
-Configuraţii şi relaţii de tranziţie, Configuraţie iniţială, configuraţie finală cu stare finală, Limbaje
-acceptate de automate finite. Automate, reprezentări de automate, reprezentare tabelară, reprezentare
-graf, automate echivalente, funcţionarea automatelor, mişcare, blocare, oprire şi staţionare. Stări
-accesibile, stări inaccesibile. Stări accesibile, stări inaccesibile., Algoritmul de determinare a stărilor
-accesibile şi respectiv productive, Echivalenţa AFD – AFN. Transformarea AFN în AFD. Exemplu.
-Definiţia AFD redus. Automate cu epsilon-mişcări. Transformarea unui AF pentru eliminarea lor.
-4. Expresii regulare, Mulţimi regulare, Expresii regulare asociate mulţimilor, Operaţiile cu automate
-asociate. Automate cu epsilon-mişcări care corespund expresiilor regulare. Exemple de limbaje.
-recunoscut de un automat. Metoda I: construcţia inductivă a unui set
-de mulţimi, Metoda a II-a, Construcţia unui sistem de ecuaţii liniare
-şi rezolvarea acestuia.  automate. Gramatici şi limbaje independente
-de context. Proprietăţi de închidere pentru limbajele de tip 2.
-5. Proprietăţi algebrice ale expresiilor regulare. Construcţia expresiei regulare corespunzatoare limbajului
-6. Echivalenţa dintre limbaje regulare specificate prin gramatici şi limbaje regulare recunoscute de
-7. Arbori de derivare, Analiza sintactică, Frontiera unii arbore de analiză sintactică, Gramatici ambigue şi
-neambigue, Simplificarea gramaticilor dependente de context. Simboluri inaccesibile – eliminarea lor,
-simboluri neproductive – eliminarea lor, simboluri neutilizabile – eliminarea lor, epsilon - producţii şi
-eliminarea lor, redenumiri şi eliminarea lor.
-8. Recursivitate şi eliminarea recursivităţii la stânga. Forma normală Chomsky; Greibach, Leme de
-pompare pentru limbaje independente de context.
-9. Implementari: Implementari de parsere modulare în limbajul functional, cu clase, Haskell. Clasa
-Parserelor, folosirea do-notatiei. Operatii cu parsere. Construirea incrementala a parserului.
-10. Implementari: Transformarea regulilor gramaticale în functii mutual recursive. Limitarile metodei
+1. Introducere în gramatici şi automate. Notaţii algebrice folosite:
+   mulţimi, relaţii, relaţii binare, tipuri de relaţii, închiderea
+   unei relaţii, inducţie, scheme de inducţie, inducţie cu mai multe
+   reguli, recursie, recursivitatea ca instrument de realizare a
+   interpretoarelor şi compilatoarelor;
+2. Noţiuni de teoria grafurilor, Limbaje formale, văzute ca mulţimi de
+   cuvinte, Reuniuni şi operaţii cu limbaje, Gramatici ale limbajelor
+   formale, Derivare, Exemplu: Gramatica unui limbaj de
+   programare. Clasificarea gramaticilor, Ierarhia lui Chomsky,
+   Echivalenţa gramaticilor, Limbaje decidabile.
+3. Automate finit(e) deterministe: Complexitatea analizei sintactice,
+   de ce limbajele de tip 3 sunt interesante. O gramatică de
+   tip 3. Reprezentarea grafică. Introducere informală în
+   automate. Tranziţii deterministe şi tranziţii
+   nedeterministe. Automate finite deterministe şi automate finite
+   nedeterministe, Configuraţii şi relaţii de tranziţie, Configuraţie
+   iniţială, configuraţie finală cu stare finală, Limbaje acceptate de
+   automate finite. Automate, reprezentări de automate, reprezentare
+   tabelară, reprezentare graf, automate echivalente, funcţionarea
+   automatelor, mişcare, blocare, oprire şi staţionare. Stări
+   accesibile, stări inaccesibile. Stări accesibile, stări
+   inaccesibile., Algoritmul de determinare a stărilor accesibile şi
+   respectiv productive, Echivalenţa AFD – AFN. Transformarea AFN în
+   AFD. Exemplu. Definiţia AFD redus. Automate cu
+   epsilon-mişcări. Transformarea unui AF pentru eliminarea lor.
+4. Expresii regulare, Mulţimi regulare, Expresii regulare asociate
+   mulţimilor, Operaţiile cu automate asociate. Automate cu
+   epsilon-mişcări care corespund expresiilor regulare. Exemple de
+   limbaje. recunoscut de un automat. Metoda I: construcţia inductivă
+   a unui set de mulţimi, Metoda a II-a, Construcţia unui sistem de
+   ecuaţii liniare şi rezolvarea acestuia.  automate. Gramatici şi
+   limbaje independente de context. Proprietăţi de închidere pentru
+   limbajele de tip 2.
+5. Proprietăţi algebrice ale expresiilor regulare. Construcţia
+   expresiei regulare corespunzatoare limbajului
+6. Echivalenţa dintre limbaje regulare specificate prin gramatici şi
+   limbaje regulare recunoscute de automate. Gramatici şi limbaje
+   independente de context. Proprietăţi de închidere pentru limbajele
+   de tip 2.
+7. Arbori de derivare, Analiza sintactică, Frontiera unii arbore de
+   analiză sintactică, Gramatici ambigue şi neambigue, Simplificarea
+   gramaticilor dependente de context. Simboluri inaccesibile –
+   eliminarea lor, simboluri neproductive – eliminarea lor, simboluri
+   neutilizabile – eliminarea lor, epsilon - producţii şi eliminarea
+   lor, redenumiri şi eliminarea lor.
+8. Recursivitate şi eliminarea recursivităţii la stînga. Forma normală
+   Chomsky; Greibach, Leme de pompare pentru limbaje independente de
+   context.
+9. Implementari: Implementari de parsere modulare în limbajul
+   functional, cu clase, Haskell. Clasa Parserelor, folosirea
+   do-notatiei. Operatii cu parsere. Construirea incrementala a
+   parserului.
+10. Implementari: Transformarea regulilor gramaticale în functii
+    mutual recursive. Limitarile metodei
 *** Bibliografia minimală obligatorie
 - Grigor Moldovan, /Limbaje Formale şi Teoria automatelor/, Edusoft, Bacău, 2005
 - Grune, Dick; Jacobs, J.H. Ceriel, /Parsing Techniques, A Practical Guide/, 2008 Springer Verlag
@@ -606,14 +505,15 @@ Calculul relaţional. Operatori. Clasificarea operatorilor. Calculul
 relaţional orientat pe tuple. Calculul relaţional orientat pe
 domenii. Aplicaţii.
 **** 6. Sisteme matematice
-Sisteme de ordinul întâi cu egalitate. Axiomele pentru egalitate.
+Sisteme de ordinul întîi cu egalitate. Axiomele pentru egalitate.
 Teoria grupurilor. Axiomele pentru grupuri. Aritmetica de ordinul
-întâi. Postulatele lui Peano. Teorema lui Gődel. Teoria
+întîi. Postulatele lui Peano. Teorema lui Gődel. Teoria
 mulţimilor. Consistenţa relativă. Teorema lui Cohen.
 *** Bibliografia minimală obligatorie
 1. Crişan, Gloria Cerasela, /Logica computaţională/, note de curs, 2011
 2. Genesereth, Michael, /Online Computational Logics/ course notes
-http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai funcționează)
+   http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai
+   funcționează)
 3. Hamilton, A. G., /Logic for mathematicians/, Cambridge University Press, 1988
 4. Krantz, S.G., /Logic and Proof Techniques for Computer Science/, Birkhauser Boston 2002
 5. Mihăilescu, Eugen, /Logica matematică/, Editura Academiei, Bucureşti, 1969
@@ -646,11 +546,11 @@ Testarea cablurilor; Cablarea LAN şi WAN; Noţiuni fundamentale despre Ethernet
 Ethernet; Comutaţie Ethernet; Suita de protocoale TCP/IP şi adresarea IP; Noţiuni fundamentale
 despre rutare şi subretele; Nivelurile transport şi aplicaţie din TCP/IP
 *** Bibliografia minimală obligatorie
-- Popa Sorin Eugen, /Reţele de calculatoare – note de curs şi aplicaţii/, Ed. Alma Mater
-Bacău, 2007, ISBN: 978-973-1833-19-4;
+- Popa Sorin Eugen, /Reţele de calculatoare – note de curs şi
+  aplicaţii/, Ed. Alma Mater Bacău, 2007, ISBN: 978-973-1833-19-4;
 - Năstase F., /Reţele de calculatoare/, Ed. ASE, Bucureşti, 2005;
-- Munteanu A, Şerban V.G., /Reţele locale de calculatoare – proiectare şi administrare/,
-Ed. Polirom, 2003.
+- Munteanu A, Şerban V.G., /Reţele locale de calculatoare – proiectare
+  şi administrare/, Ed. Polirom, 2003.
 *** Fond de timp alocat pe forme de activitate
 - Semestrul: 2
 - Forme de activitate/număr de ore:
@@ -689,7 +589,7 @@ Baze de date SQL. Concepţia SGBD Oracle. Definire şi creare
 tabele. Fişiere index.  Actualizarea tabelelor. Selecţia informaţiilor
 din tabelele BD. Selecţii imbricate.Conceptul de vedere.  Executarea
 operaţiilor JOIN. Outer Join, Self Join. Integritatea informaţiilor şi
-accesul concurent la BD. Constrângeri. Tranzacţii. Controlul acesului
+accesul concurent la BD. Constrîngeri. Tranzacţii. Controlul acesului
 la BD. Useri, role-uri, drepturi de acces sistem şi pe obiecte.
 Comenzi SQL+. Variabile, rapoarte, setări. Funcţii SQL
 **** 4. Limbajul PL/SQL Oracle
@@ -714,8 +614,7 @@ Exemple de baze de date ştiinţifice. Aplicaţii
 - V. Felea, /Baze de date relaţionale. Dependenţe./, Ed. Univ. Iaşi, 1996
 - Dollinger R., /Baze de date şi gestiunea tranzacţiilor/, Ed. Albastră, Cluj-Napoca, 1998 (reeditată).
 - Nagy M., /Baze de date. Exemple şi aplicaţii în gestiunea economică/, Ed. Mirton, Timişoara, 2002.
-- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi,
-2005
+- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi, 2005
 - Nechita E., /Baze de date. Suport de curs/, Ed. Alma Mater, 2012
 *** Fond de timp alocat pe forme de activitate
 - Semestrul: 2

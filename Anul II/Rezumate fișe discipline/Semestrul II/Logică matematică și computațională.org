@@ -30,14 +30,14 @@ Calculul relaţional. Operatori. Clasificarea operatorilor. Calculul
 relaţional orientat pe tuple. Calculul relaţional orientat pe
 domenii. Aplicaţii.
 ** 6. Sisteme matematice
-Sisteme de ordinul întâi cu egalitate. Axiomele pentru egalitate.
+Sisteme de ordinul întîi cu egalitate. Axiomele pentru egalitate.
 Teoria grupurilor. Axiomele pentru grupuri. Aritmetica de ordinul
-întâi. Postulatele lui Peano. Teorema lui Gődel. Teoria
+întîi. Postulatele lui Peano. Teorema lui Gődel. Teoria
 mulţimilor. Consistenţa relativă. Teorema lui Cohen.
 * Bibliografia minimală obligatorie
 1. Crişan, Gloria Cerasela, /Logica computaţională/, note de curs, 2011
 2. Genesereth, Michael, /Online Computational Logics/ course notes
-http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai funcționează)
+   http://logic.stanford.edu/classes/cs157/2009/notes/ (nu mai funcționează)
 3. Hamilton, A. G., /Logic for mathematicians/, Cambridge University Press, 1988
 4. Krantz, S.G., /Logic and Proof Techniques for Computer Science/, Birkhauser Boston 2002
 5. Mihăilescu, Eugen, /Logica matematică/, Editura Academiei, Bucureşti, 1969

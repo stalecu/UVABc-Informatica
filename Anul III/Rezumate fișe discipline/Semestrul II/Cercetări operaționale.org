@@ -8,22 +8,22 @@ Obligatoriu
 -
 
 * Conținutul disciplinei
-1. Programare liniară. Diferite forme ale problemelor de programare liniară. Algoritmul simplex
-primal. Algoritmul simplex dual
+1. Programare liniară. Diferite forme ale problemelor de programare
+   liniară. Algoritmul simplex primal. Algoritmul simplex dual
 2. Programare neliniară. Programarea convexă. Programarea pătratică.
 3. Programare discretă. Probleme tipice ale programării discrete. Algoritmul lui Gomory
-4. Elemente de teoria jocurilor; rezolvarea jocurilor matriceale prin reducere la probleme de
-optimizare liniara.
+4. Elemente de teoria jocurilor; rezolvarea jocurilor matriceale prin
+   reducere la probleme de optimizare liniara.
 * Bibliografia minimală obligatorie
-- Breckner,W.,W., /Cercetare Operaţională/, Cluj-Napoca, Universitatea “Babeş-Bolyai”, Fac. de
-Matematică, 1981.
-- Breckner, W.W., Duca, D.: /Culegere de probleme de cercetare operationala/. Cluj-Napoca,
-Universitatea, Fac. de Matematica, 1983.
-- G.Mihoc, A.Ştefănescu, /Programarea matematică/, Editura didactică şi pedagogică,
-Bucureşti,1973.
+- Breckner,W.,W., /Cercetare Operaţională/, Cluj-Napoca, Universitatea
+  “Babeş-Bolyai”, Fac. de Matematică, 1981.
+- Breckner, W.W., Duca, D.: /Culegere de probleme de cercetare
+  operationala/. Cluj-Napoca, Universitatea, Fac. de Matematica, 1983.
+- G.Mihoc, A.Ştefănescu, /Programarea matematică/, Editura didactică
+  şi pedagogică, Bucureşti,1973.
 - A.Ştefănescu, /Curs de Cercetări Operaţionale/, Bucureşti, 1982.
-- Gh.Gh.Vrănceanu, Şt.Mititelu, /Probleme de Cercetare Operaţională/, Editura Tehnică, Bucureşti,
-1978
+- Gh.Gh.Vrănceanu, Şt.Mititelu, /Probleme de Cercetare Operaţională/,
+  Editura Tehnică, Bucureşti, 1978
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 2
 - Forme de activitate/număr de ore:

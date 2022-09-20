@@ -17,7 +17,7 @@ funcţiilor =width()=, =precision()= şi =fill()=. Supraîncărcarea
 funcţiilor şi operatorilor. Funcţie operator.  Supraîncărcarea
 operatorilor =<<= şi =>>=. Definirea de manipulatori
 personalizaţi. Lucrul cu fişierele în C++. Prelucrare binară a
-fişierelor. Lucrul aleatoriu cu fişierele. Cuvântul cheie =this=.
+fişierelor. Lucrul aleatoriu cu fişierele. Cuvîntul cheie =this=.
 Prevenirea redeclarării claselor. Tehnici de creare şi iniţializare a
 obiectelor. Elemente despre preprocesare. Directive de compilare
 condiţionată. Prevenirea redeclarării claselor. Programarea în Visual

@@ -10,7 +10,7 @@ Obligatoriu
 * Conținutul disciplinei
 Internetul și Caracteristicile Web-ului.  Arhitectura unei aplicatii
 web. Modele de formatare a documentelor Web.  Structura unui document
-HTML. Taguri de baza. Crearea paginilor web utlizând limbajul (X)HTML,
+HTML. Taguri de baza. Crearea paginilor web utlizînd limbajul (X)HTML,
 Structura documentelor DHTML, HTML5.  Formatarea paginilor Web prin
 intermediul stilurilor CSS (Cascading Style Sheets), (CSS2 & CSS3).
 Elemente multimedia pentru programarea web.  Servicii, sisteme și

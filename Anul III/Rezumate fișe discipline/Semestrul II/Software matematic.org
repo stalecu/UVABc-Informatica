@@ -25,10 +25,13 @@ Obligatoriu
 Reprezentarea grafica in Matlab. Fisiere Matlab. Instructiuni si comenzi Matlab.
 * Bibliografia minimală obligatorie
 - Mathworks: /Matlab User’s Guide/
-- Hunt B., Lipsman R., Rosenberg J., /A Guide to Matlab for Beginners and Experienced Users/,
-Cambridge Universiy Press, 2001, ISBN:0521-00859-X
-- Muraru C.V., /Software matematic/, www.stiinte.ub.ro (curs-format electronic)
-- Muraru (Popescu) Carmen-Violeta, /Matlab - Ghid de studiu/, Ed. Edusoft, Bacau, 2006
+- Hunt B., Lipsman R., Rosenberg J., /A Guide to Matlab for Beginners
+  and Experienced Users/, Cambridge Universiy Press, 2001,
+  ISBN:0521-00859-X
+- Muraru C.V., /Software matematic/, www.stiinte.ub.ro (curs-format
+  electronic)
+- Muraru (Popescu) Carmen-Violeta, /Matlab - Ghid de studiu/,
+  Ed. Edusoft, Bacau, 2006
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 2
 - Forme de activitate/număr de ore:

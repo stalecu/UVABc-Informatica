@@ -144,7 +144,7 @@ Definiţii. Arhitecturi.
 Gestionarea colecţiilor moderne de date
 
 *** Bibliografia minimală obligatorie
-- Octavian Bâscă, /Baze de date/, Ed. All, Bucureşti, 1997
+- Octavian Bîscă, /Baze de date/, Ed. All, Bucureşti, 1997
 - Pavel Năstase şi colectiv, /Microsoft Access/, Ed. Teora, Bucureşti, 2000
 - Gh. Popa, Al. Ştefănescu, V. Stanciu, V. Ivancenco, V. Ţintă, /Sisteme de gestiune a bazelor de date : dBase IV, Oracle/, Ed. All, Bucureşti, 1998
 - I. Lungu, C. Bodea, G. Bădescu, C. Ioniţă, /Baze de date. Organizare, proiectare şi implementare/, Ed. All, Bucureşti, 1995
@@ -441,7 +441,7 @@ Obligatoriu
 10. Hashing
 11. Sinteze, recapitulare
 *** Bibliografia minimală obligatorie
-- Rodica Brânzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
+- Rodica Brînzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
 - Thomas H.Cormen, Charles E.Leiserson, Ronald R.Rivest, /Introducere în Algoritmi/, Agora
 Press, Traducere.
 - Mitchell Wat şi Robert Lafere, /Structuri de date şi algoritmi in Java/, Teora, 1999.
@@ -479,7 +479,7 @@ Dezvoltarea aptitudinilor de programare a structurii hardware.
 
 *** Bibliografia minimală obligatorie
 - Rotar Dan, /Arhitectura sistemelor de calcul/, Curs în format electronic, 2013
-- Pârvulescu Lucian, /Arhitectura sistemelor de calcul/, Îndrumar de aplicații. Editura Matrix
+- Pîrvulescu Lucian, /Arhitectura sistemelor de calcul/, Îndrumar de aplicații. Editura Matrix
 Rom, București, 2015
 - Baruch Z. F., /Arhitectura calculatoarelor/, Editura Todesco, Cluj-Napoca, 2001
 *** Fond de timp alocat pe forme de activitate
@@ -611,7 +611,7 @@ funcţiilor =width()=, =precision()= şi =fill()=. Supraîncărcarea
 funcţiilor şi operatorilor. Funcţie operator.  Supraîncărcarea
 operatorilor =<<= şi =>>=. Definirea de manipulatori
 personalizaţi. Lucrul cu fişierele în C++. Prelucrare binară a
-fişierelor. Lucrul aleatoriu cu fişierele. Cuvântul cheie =this=.
+fişierelor. Lucrul aleatoriu cu fişierele. Cuvîntul cheie =this=.
 Prevenirea redeclarării claselor. Tehnici de creare şi iniţializare a
 obiectelor. Elemente despre preprocesare. Directive de compilare
 condiţionată. Prevenirea redeclarării claselor. Programarea în Visual
@@ -661,7 +661,7 @@ Obligatoriu
 6. Grafuri (conexe, orientate/neorientate)
 7. Arbori (parcurgeri, aplicaţii)
 *** Bibliografia minimală obligatorie
-- Rodica Brânzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
+- Rodica Brînzei, /Proiectarea şi analiza algoritmilor/, Ed.Univ. “Al.I.Cuza” Iaşi, 1995.
 - Thomas H.Cormen, Charles E.Leiserson, Ronald R.Rivest, /Introducere în Algoritmi/, Agora
 Press, Traducere.
 - Mitchell Wat şi Robert Lafere, /Structuri de date şi algoritmi in Java/, Teora, 1999.

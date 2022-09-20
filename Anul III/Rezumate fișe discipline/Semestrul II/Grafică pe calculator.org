@@ -23,8 +23,8 @@ bitmap-uri. Redarea pixmap-urilor. Utilizarea atributelor de redare în
 OpenGL. Prezentare OpenGL ES 3.0. Prezentare EGL. Utilizare
 Cross-Platform Mobile Development în Visual Studio 2015.
 * Bibliografia minimală obligatorie
-- Culea George, /Prelucrare grafică/ – Note de curs - laborator Universitatea „Vasile Alecsandri”
-din Bacău 2015
+- Culea George, /Prelucrare grafică/ – Note de curs - laborator
+  Universitatea „Vasile Alecsandri” din Bacău 2015
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 2
 - Forme de activitate/număr de ore:

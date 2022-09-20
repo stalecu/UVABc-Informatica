@@ -8,38 +8,60 @@ Obligatoriu
 -
 
 * Conținutul disciplinei
-1. Introducere în gramatici şi automate. Notaţii algebrice folosite: mulţimi, relaţii, relaţii binare, tipuri de
-relaţii, închiderea unei relaţii, inducţie, scheme de inducţie, inducţie cu mai multe reguli, recursie,
-recursivitatea ca instrument de realizare a interpretoarelor şi compilatoarelor;
-2. Noţiuni de teoria grafurilor, Limbaje formale, văzute ca mulţimi de cuvinte, Reuniuni şi operaţii cu
-limbaje, Gramatici ale limbajelor formale, Derivare, Exemplu: Gramatica unui limbaj de programare.
-Clasificarea gramaticilor, Ierarhia lui Chomsky, Echivalenţa gramaticilor, Limbaje decidabile.
-3. Automate finit(e) deterministe: Complexitatea analizei sintactice, de ce limbajele de tip 3 sunt
-interesante. O gramatică de tip 3. Reprezentarea grafică. Introducere informală în automate. Tranziţii
-deterministe şi tranziţii nedeterministe. Automate finite deterministe şi automate finite nedeterministe,
-Configuraţii şi relaţii de tranziţie, Configuraţie iniţială, configuraţie finală cu stare finală, Limbaje
-acceptate de automate finite. Automate, reprezentări de automate, reprezentare tabelară, reprezentare
-graf, automate echivalente, funcţionarea automatelor, mişcare, blocare, oprire şi staţionare. Stări
-accesibile, stări inaccesibile. Stări accesibile, stări inaccesibile., Algoritmul de determinare a stărilor
-accesibile şi respectiv productive, Echivalenţa AFD – AFN. Transformarea AFN în AFD. Exemplu.
-Definiţia AFD redus. Automate cu epsilon-mişcări. Transformarea unui AF pentru eliminarea lor.
-4. Expresii regulare, Mulţimi regulare, Expresii regulare asociate mulţimilor, Operaţiile cu automate
-asociate. Automate cu epsilon-mişcări care corespund expresiilor regulare. Exemple de limbaje.
-recunoscut de un automat. Metoda I: construcţia inductivă a unui set
-de mulţimi, Metoda a II-a, Construcţia unui sistem de ecuaţii liniare
-şi rezolvarea acestuia.  automate. Gramatici şi limbaje independente
-de context. Proprietăţi de închidere pentru limbajele de tip 2.
-5. Proprietăţi algebrice ale expresiilor regulare. Construcţia expresiei regulare corespunzatoare limbajului
-6. Echivalenţa dintre limbaje regulare specificate prin gramatici şi limbaje regulare recunoscute de
-7. Arbori de derivare, Analiza sintactică, Frontiera unii arbore de analiză sintactică, Gramatici ambigue şi
-neambigue, Simplificarea gramaticilor dependente de context. Simboluri inaccesibile – eliminarea lor,
-simboluri neproductive – eliminarea lor, simboluri neutilizabile – eliminarea lor, epsilon - producţii şi
-eliminarea lor, redenumiri şi eliminarea lor.
-8. Recursivitate şi eliminarea recursivităţii la stânga. Forma normală Chomsky; Greibach, Leme de
-pompare pentru limbaje independente de context.
-9. Implementari: Implementari de parsere modulare în limbajul functional, cu clase, Haskell. Clasa
-Parserelor, folosirea do-notatiei. Operatii cu parsere. Construirea incrementala a parserului.
-10. Implementari: Transformarea regulilor gramaticale în functii mutual recursive. Limitarile metodei
+1. Introducere în gramatici şi automate. Notaţii algebrice folosite:
+   mulţimi, relaţii, relaţii binare, tipuri de relaţii, închiderea
+   unei relaţii, inducţie, scheme de inducţie, inducţie cu mai multe
+   reguli, recursie, recursivitatea ca instrument de realizare a
+   interpretoarelor şi compilatoarelor;
+2. Noţiuni de teoria grafurilor, Limbaje formale, văzute ca mulţimi de
+   cuvinte, Reuniuni şi operaţii cu limbaje, Gramatici ale limbajelor
+   formale, Derivare, Exemplu: Gramatica unui limbaj de
+   programare. Clasificarea gramaticilor, Ierarhia lui Chomsky,
+   Echivalenţa gramaticilor, Limbaje decidabile.
+3. Automate finit(e) deterministe: Complexitatea analizei sintactice,
+   de ce limbajele de tip 3 sunt interesante. O gramatică de
+   tip 3. Reprezentarea grafică. Introducere informală în
+   automate. Tranziţii deterministe şi tranziţii
+   nedeterministe. Automate finite deterministe şi automate finite
+   nedeterministe, Configuraţii şi relaţii de tranziţie, Configuraţie
+   iniţială, configuraţie finală cu stare finală, Limbaje acceptate de
+   automate finite. Automate, reprezentări de automate, reprezentare
+   tabelară, reprezentare graf, automate echivalente, funcţionarea
+   automatelor, mişcare, blocare, oprire şi staţionare. Stări
+   accesibile, stări inaccesibile. Stări accesibile, stări
+   inaccesibile., Algoritmul de determinare a stărilor accesibile şi
+   respectiv productive, Echivalenţa AFD – AFN. Transformarea AFN în
+   AFD. Exemplu. Definiţia AFD redus. Automate cu
+   epsilon-mişcări. Transformarea unui AF pentru eliminarea lor.
+4. Expresii regulare, Mulţimi regulare, Expresii regulare asociate
+   mulţimilor, Operaţiile cu automate asociate. Automate cu
+   epsilon-mişcări care corespund expresiilor regulare. Exemple de
+   limbaje. recunoscut de un automat. Metoda I: construcţia inductivă
+   a unui set de mulţimi, Metoda a II-a, Construcţia unui sistem de
+   ecuaţii liniare şi rezolvarea acestuia.  automate. Gramatici şi
+   limbaje independente de context. Proprietăţi de închidere pentru
+   limbajele de tip 2.
+5. Proprietăţi algebrice ale expresiilor regulare. Construcţia
+   expresiei regulare corespunzatoare limbajului
+6. Echivalenţa dintre limbaje regulare specificate prin gramatici şi
+   limbaje regulare recunoscute de automate. Gramatici şi limbaje
+   independente de context. Proprietăţi de închidere pentru limbajele
+   de tip 2.
+7. Arbori de derivare, Analiza sintactică, Frontiera unii arbore de
+   analiză sintactică, Gramatici ambigue şi neambigue, Simplificarea
+   gramaticilor dependente de context. Simboluri inaccesibile –
+   eliminarea lor, simboluri neproductive – eliminarea lor, simboluri
+   neutilizabile – eliminarea lor, epsilon - producţii şi eliminarea
+   lor, redenumiri şi eliminarea lor.
+8. Recursivitate şi eliminarea recursivităţii la stînga. Forma normală
+   Chomsky; Greibach, Leme de pompare pentru limbaje independente de
+   context.
+9. Implementari: Implementari de parsere modulare în limbajul
+   functional, cu clase, Haskell. Clasa Parserelor, folosirea
+   do-notatiei. Operatii cu parsere. Construirea incrementala a
+   parserului.
+10. Implementari: Transformarea regulilor gramaticale în functii
+    mutual recursive. Limitarile metodei
 * Bibliografia minimală obligatorie
 - Grigor Moldovan, /Limbaje Formale şi Teoria automatelor/, Edusoft, Bacău, 2005
 - Grune, Dick; Jacobs, J.H. Ceriel, /Parsing Techniques, A Practical Guide/, 2008 Springer Verlag

@@ -32,7 +32,7 @@ Definiţii. Arhitecturi.
 Gestionarea colecţiilor moderne de date
 
 * Bibliografia minimală obligatorie
-- Octavian Bâscă, /Baze de date/, Ed. All, Bucureşti, 1997
+- Octavian Bîscă, /Baze de date/, Ed. All, Bucureşti, 1997
 - Pavel Năstase şi colectiv, /Microsoft Access/, Ed. Teora, Bucureşti, 2000
 - Gh. Popa, Al. Ştefănescu, V. Stanciu, V. Ivancenco, V. Ţintă, /Sisteme de gestiune a bazelor de date : dBase IV, Oracle/, Ed. All, Bucureşti, 1998
 - I. Lungu, C. Bodea, G. Bădescu, C. Ioniţă, /Baze de date. Organizare, proiectare şi implementare/, Ed. All, Bucureşti, 1995

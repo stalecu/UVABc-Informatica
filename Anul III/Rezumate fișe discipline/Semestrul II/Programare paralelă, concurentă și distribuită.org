@@ -27,12 +27,14 @@ Paralelizarea programării dinamice. Paralelizarea sortării şi a problemelor c
 Supercalculatoarele şi modelarea fenomenelor complexe. Reţelele de calcul şi de telefonie
 mobilă.
 * Bibliografia minimală obligatorie
-- Athanasiu I., /Java ca limbaj pentru programarea distribuită/, Matrix Rom, 2000
-- Bumbaru S., /Curs practic de programare orientată pe obiecte în limbajul Java/, Universitatea
-Dunărea de Jos, Galaţi, 2000
-- Chiorean I., /Calcul paralel. Fundamente/, Ed. Microinformatica, 1995
-- Petcu D., Negru V., /Procesare distribuită/, Editura Universităţii de Vest, Seria Alef, Timişoara,
-2002
+- Athanasiu I., /Java ca limbaj pentru programarea distribuită/,
+  Matrix Rom, 2000
+- Bumbaru S., /Curs practic de programare orientată pe obiecte în
+  limbajul Java/, Universitatea Dunărea de Jos, Galaţi, 2000
+- Chiorean I., /Calcul paralel. Fundamente/, Ed. Microinformatica,
+  1995
+- Petcu D., Negru V., /Procesare distribuită/, Editura Universităţii
+  de Vest, Seria Alef, Timişoara, 2002
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 2
 - Forme de activitate/număr de ore:

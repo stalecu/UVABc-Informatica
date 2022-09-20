@@ -23,7 +23,7 @@ Baze de date SQL. Concepţia SGBD Oracle. Definire şi creare
 tabele. Fişiere index.  Actualizarea tabelelor. Selecţia informaţiilor
 din tabelele BD. Selecţii imbricate.Conceptul de vedere.  Executarea
 operaţiilor JOIN. Outer Join, Self Join. Integritatea informaţiilor şi
-accesul concurent la BD. Constrângeri. Tranzacţii. Controlul acesului
+accesul concurent la BD. Constrîngeri. Tranzacţii. Controlul acesului
 la BD. Useri, role-uri, drepturi de acces sistem şi pe obiecte.
 Comenzi SQL+. Variabile, rapoarte, setări. Funcţii SQL
 ** 4. Limbajul PL/SQL Oracle
@@ -48,8 +48,7 @@ Exemple de baze de date ştiinţifice. Aplicaţii
 - V. Felea, /Baze de date relaţionale. Dependenţe./, Ed. Univ. Iaşi, 1996
 - Dollinger R., /Baze de date şi gestiunea tranzacţiilor/, Ed. Albastră, Cluj-Napoca, 1998 (reeditată).
 - Nagy M., /Baze de date. Exemple şi aplicaţii în gestiunea economică/, Ed. Mirton, Timişoara, 2002.
-- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi,
-2005
+- Todoroi, D., Nechita, E., Crişan, G.C., /Baze de date pentru economişti/, Ed. Performantica, Iaşi, 2005
 - Nechita E., /Baze de date. Suport de curs/, Ed. Alma Mater, 2012
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 2

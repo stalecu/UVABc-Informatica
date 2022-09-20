@@ -7,41 +7,48 @@ Opțional
 -
 
 * Conținutul disciplinei
-** Teoria λ calculului
-- Introducere în lambda calcul: 1.1. Sintaxa şi semantica lambda calculului; 1.2 Notaţii; 1.3
-Variabile libere şi legate; 1.4 Reguli de conversie 1.4.1 Alfa conversia; 1.4.2 Beta conversia;
-1.4.3 Eta conversia ; 1.5 Egalitatea lambda expresiilor; 1.6. Extensionalitate ; 1.7 Substituție
-- Reprezentarea datelor în lambda calcul: 2.1 Valorile booleene şi condiționala; 2.2 Perechi şi
-n-uple; 2.3 Numere; 2.4 Definiții prin recursie; 2.5 Funcţii cu mai multe argumente; 2.6
-Recursie mutuala; 2.7 Reprezentarea funcțiilor recursive; 2.8 Combinatorul Y
+** 1. Teoria λ calculului
+- Introducere în lambda calcul: 1.1. Sintaxa şi semantica lambda
+  calculului; 1.2 Notaţii; 1.3 Variabile libere şi legate; 1.4 Reguli
+  de conversie 1.4.1 Alfa conversia; 1.4.2 Beta conversia; 1.4.3 Eta
+  conversia ; 1.5 Egalitatea lambda expresiilor;
+  1.6. Extensionalitate; 1.7 Substituție
+- Reprezentarea datelor în lambda calcul: 2.1 Valorile booleene şi
+  condiționala; 2.2 Perechi şi n-uple; 2.3 Numere; 2.4 Definiții prin
+  recursie; 2.5 Funcţii cu mai multe argumente; 2.6 Recursie mutuala;
+  2.7 Reprezentarea funcțiilor recursive; 2.8 Combinatorul Y
 - Funcţii fold: Proprietatea de universalitate a fold-urilor; Alte proprietăți
 - Combinatori
-**  Grafica în HOpenGL
-- Desene cu linii. Vertex. Primitiva LineStrip. Callback-ul pentru desen pe Display.
-Matrixmode: Proiecție și Modelview. Callback-ul de redimensionare. Tipul Maybe și
-programul principal. Folosirea matricei unitate.
-- Desene cu linii în 3D. Viewport, frustum. Buffer unic vs. buffer dublu. Culori RGB și
-RGBA. Primitiva Wireframe. Constructorul Cube – al cuburilor în Haskell. LookAt. Scalari.
+** 2. Grafică în HOpenGL
+- Desene cu linii. Vertex. Primitiva LineStrip. Callback-ul pentru
+  desen pe Display. Matrixmode: Proiecție și Modelview. Callback-ul de
+  redimensionare. Tipul Maybe și programul principal. Folosirea
+  matricei unitate.
+- Desene cu linii în 3D. Viewport, frustum. Buffer unic vs. buffer
+  dublu. Culori RGB și RGBA. Primitiva Wireframe. Constructorul Cube –
+  al cuburilor în Haskell. LookAt. Scalari.
 - Degradeuri de culoare. Smooth shade Model. Primitiva Triangle.
-- Scene în 3D. Compunerea transformărilor geometrice. Stiva de matrice. Iluminatul cu surse
-de lumina. Lumina ambientala difuza și speculara. Randarea primitivelor ObjectSolid.
-Torul, conul și sfera. Folosirea buffer-ului de adâncimi. (WithDepthBuffer). Functia de
-comparare a adâncimilor. Translații și rotații.
-- Transparenta. Alpha blending. Starea lumii dintr-un joc. Constructorul de tip IORef. Citirea
-cu get, procesarea valorii cu op. =$~=.
-- Materiale în lumina. Ceata: Absorbția luminii în ceata. 3 feluri de ceata: liniara,
-exponențială și exp2.
+- Scene în 3D. Compunerea transformărilor geometrice. Stiva de
+  matrice. Iluminatul cu surse de lumina. Lumina ambientala difuza și
+  speculara. Randarea primitivelor ObjectSolid. Torul, conul și
+  sfera. Folosirea buffer-ului de adîncimi. (WithDepthBuffer). Functia
+  de comparare a adîncimilor. Translații și rotații.
+- Transparenta. Alpha blending. Starea lumii dintr-un
+  joc. Constructorul de tip IORef. Citirea cu get, procesarea valorii
+  cu op. =$~=.
+- Materiale în lumina. Ceata: Absorbția luminii în ceata. 3 feluri de
+  ceata: liniara, exponențială și exp2.
 - Un proiect complex
 * Bibliografia minimală obligatorie
-- Gordon Mike, /Introduction to Functional Programming/, The University of Cambridge
-Computer Laboratory
-http://www.cl.cam.ac.uk/~mjcg/
-http://www.haskell.org/wikiupload/a/a5/Notes_Funcţional_programming.pdf
-- Gontineac Mihai, /Programare Funcţionala O introducere utilizând limbajul Haskell/ - Ed.
-Alexandru Myller, Iași , 2006
+- Gordon Mike, /Introduction to Functional Programming/, The
+  University of Cambridge Computer Laboratory
+  http://www.cl.cam.ac.uk/~mjcg/
+  http://www.haskell.org/wikiupload/a/a5/Notes_Funcţional_programming.pdf
+- Gontineac Mihai, /Programare Funcţionala O introducere utilizînd
+  limbajul Haskell/ - Ed. Alexandru Myller, Iași , 2006
 - Popa, Dan – /O introducere în Haskell 98 prin exemple/ – Editura PIM, Iași, 2014
-- Garcia, Jorge; Popa Dan (trad) /Manual introductiv de OpenGL/, Editura Alma Mater, 2014,
-ISBN 978-606-527-349-8
+- Garcia, Jorge; Popa Dan (trad) /Manual introductiv de OpenGL/,
+  Editura Alma Mater, 2014, ISBN 978-606-527-349-8
 * Fond de timp alocat pe forme de activitate
 - Semestrul: 1
 - Forme de activitate/număr de ore:
