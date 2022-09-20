@@ -42,6 +42,8 @@ README-urile de la fiecare materie pentru a vedea instrucțiuni speciale, dacă
 este cazul.
 
 * Istoric
+** 2022-09-21: versiunea 0.2.5
+- completare fișe discipline pentru anul II și III
 ** 2022-09-18: versiunea 0.2
 - completare fișe discipline pentru anul I
 ** 2022-08-31: versiunea 0.1
