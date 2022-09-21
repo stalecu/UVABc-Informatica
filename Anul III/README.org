@@ -13,21 +13,21 @@ funcție de informațiile primite, inclusiv pentru semestrul 2.
 * Materii
 ** Semestrul 1
 # - **Clase particulare de grafuri**: 
-- **Inginerie software**: [[http://cadredidactice.ub.ro/culeageorge/][CULEA George]] (🧑‍🏫🥼)
-- **Inteligență artificială**: [[http://cadredidactice.ub.ro/rotardan/][ROTAR Dan]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (📘🥼)
-- **Programare funcțională**: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫📘)
-- **Securitatea sistemelor software**: [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🧑‍🏫📘)
-- **Sisteme de operare**: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫🥼)
+- *Inginerie software*: [[http://cadredidactice.ub.ro/culeageorge/][CULEA George]] (🧑‍🏫🥼)
+- *Inteligență artificială*: [[http://cadredidactice.ub.ro/rotardan/][ROTAR Dan]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (📘🥼)
+- *Programare funcțională*: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫📘)
+- *Securitatea sistemelor software*: [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🧑‍🏫📘)
+- *Sisteme de operare*: [[https://cadredidactice.ub.ro/danvpopa/][POPA Dan]] (🧑‍🏫🥼)
 ** Semestrul 2
-- **Antreprenoriat**: [[https://cadredidactice.ub.ro/andreeaferaru/][FERARU Andreea]] (🧑‍🏫 )
-- **Cercetări operaționale**: [[https://cadredidactice.ub.ro/marcelinamocanu/][MOCANU Marcelina-Cristina]] (🧑‍🏫) +
+- *Antreprenoriat*: [[https://cadredidactice.ub.ro/andreeaferaru/][FERARU Andreea]] (🧑‍🏫 )
+- *Cercetări operaționale*: [[https://cadredidactice.ub.ro/marcelinamocanu/][MOCANU Marcelina-Cristina]] (🧑‍🏫) +
   [[https://cadredidactice.ub.ro/ardeleanuroxana/][ARDELEANU Elena-Roxana]] (📘)
-- **Dezvoltarea aplicațiilor mobile**:  [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🧑‍🏫🥼)
-- **Grafică pe calculator**: [[http://cadredidactice.ub.ro/culeageorge/][CULEA George]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]]
+- *Dezvoltarea aplicațiilor mobile*:  [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]] (🧑‍🏫🥼)
+- *Grafică pe calculator*: [[http://cadredidactice.ub.ro/culeageorge/][CULEA George]] (🧑‍🏫) + [[http://cadredidactice.ub.ro/tomozeicosminion][TOMOZEI Cosmin Ion]]
   (🥼)
-- **Optimizare și aplicații**: [[https://cadredidactice.ub.ro/ardeleanuroxana/][ARDELEANU Elena-Roxana]] (🧑‍🏫📘)
-- **Programarea paralelă, concurentă și distribuită**:  [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (🧑‍🏫🥼)
-- **Software matematic**:  [[http://cadredidactice.ub.ro/carmenmuraru][POPESCU Carmen-Violeta]] (🧑‍🏫)  + AMBROSIE R. (🥼)
+- *Optimizare și aplicații*: [[https://cadredidactice.ub.ro/ardeleanuroxana/][ARDELEANU Elena-Roxana]] (🧑‍🏫📘)
+- *Programarea paralelă, concurentă și distribuită*:  [[https://cadredidactice.ub.ro/ceraselacrisan/][CRIȘAN Gloria-Cerasela]] (🧑‍🏫🥼)
+- *Software matematic*:  [[http://cadredidactice.ub.ro/carmenmuraru][POPESCU Carmen-Violeta]] (🧑‍🏫)  + AMBROSIE R. (🥼)
 
 Nu știu cine este Ambrosie, pot presupune că e cineva plătit cu ora.
 
